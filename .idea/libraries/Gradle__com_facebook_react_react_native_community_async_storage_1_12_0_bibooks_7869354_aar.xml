@@ -1,0 +1,26 @@
+<component name="libraryTable">
+  <library name="Gradle: com.facebook.react:react-native-community_async-storage:1.12.0-bibooks-7869354@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/b8a73829be85cd57b0879f2bff2ff55b/jetified-react-native-community_async-storage-1.12.0-bibooks-7869354/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/107d83a240db9b10cc9176e715d3a37b/jetified-react-native-community_async-storage-1.12.0-bibooks-7869354/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/c5f302e55e1c9f20b41132083be12569/react-native-community_async-storage-1.12.0-bibooks-7869354/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/ee787be0fb0a595200b19aaf513f33d2/react-native-community_async-storage-1.12.0-bibooks-7869354/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/173a3807408b9955208bfbc5024fae65/react-native-community_async-storage-1.12.0-bibooks-7869354/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/0ee6d072ca10059649c65b6c204147e3/react-native-community_async-storage-1.12.0-bibooks-7869354/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/720b2220f9dc897305ddf89e3029cd3c/react-native-community_async-storage-1.12.0-bibooks-7869354/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/0ee6d072ca10059649c65b6c204147e3/react-native-community_async-storage-1.12.0-bibooks-7869354/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/0ee6d072ca10059649c65b6c204147e3/react-native-community_async-storage-1.12.0-bibooks-7869354/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/1c08a070a1321cfdeaad60c57ab00250/react-native-community_async-storage-1.12.0-bibooks-7869354/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/a6e434a05c0f0e6ea25c7cb8856e815e/react-native-community_async-storage-1.12.0-bibooks-7869354/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/4e76fcdb1f7f7a04c1479be345f43961/transformed/jetified-react-native-community_async-storage-1.12.0-bibooks-7869354/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/daa1e69eea5d4b78dc1da06951dd7771/transformed/jetified-react-native-community_async-storage-1.12.0-bibooks-7869354/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/ea5d35ea77b1db8983237d17475a6057/transformed/jetified-react-native-community_async-storage-1.12.0-bibooks-7869354/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/7ca2a69fceea552fb74414ebfea7a883/transformed/jetified-react-native-community_async-storage-1.12.0-bibooks-7869354/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/7ca2a69fceea552fb74414ebfea7a883/transformed/jetified-react-native-community_async-storage-1.12.0-bibooks-7869354/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.facebook.react/react-native-community_async-storage/1.12.0-bibooks-7869354/92a489734f93d3ee52dec7ed1c867f9f688e7acc/react-native-community_async-storage-1.12.0-bibooks-7869354-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,33 @@
+<component name="libraryTable">
+  <library name="Gradle: io.realm:realm-android-library:7.0.8@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/c4594ddf3b0c2ca6cd59b082234be0bd/jetified-realm-android-library-7.0.8/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/cb4b60f9ef961489f0742555abf0d3fe/jetified-realm-android-library-7.0.8/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/c48a19d52cfc135ebfb12701ef3dd802/jetified-realm-android-library-7.0.8/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/d12b1a089c755b8e2a0636e115230869/jetified-realm-android-library-7.0.8/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/5de8ca47c9f0d3b732301c2d72a78a38/jetified-realm-android-library-7.0.8/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/f38fb7f3f508daa994832ba5b638632f/jetified-realm-android-library-7.0.8/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/f38fb7f3f508daa994832ba5b638632f/jetified-realm-android-library-7.0.8/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/f38fb7f3f508daa994832ba5b638632f/jetified-realm-android-library-7.0.8/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/0ce6a8ac1cb0df2a23112153a3b00c6f/jetified-realm-android-library-7.0.8/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/10b7204d77ba5a55edcbdd2d72c29fe2/jetified-realm-android-library-7.0.8/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/3119dc7b79a3776b28cc9183de973083/jetified-realm-android-library-7.0.8/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/a336dcf7473c4ad5aeff5526ff974a09/jetified-realm-android-library-7.0.8/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/3119dc7b79a3776b28cc9183de973083/jetified-realm-android-library-7.0.8/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/3119dc7b79a3776b28cc9183de973083/jetified-realm-android-library-7.0.8/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/ac5a8bc1f9df91ba34b5817699fb4853/jetified-realm-android-library-7.0.8/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/0d4816347d4044fdd6ade8ff175d7044/jetified-realm-android-library-7.0.8/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/f6869f05cd12aeb355f3a9156766a0a7/transformed/jetified-realm-android-library-7.0.8/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/038d8a698fd7448f7ef7a1a6cd7dce7a/transformed/jetified-realm-android-library-7.0.8/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/fbb910f1feeeda90de61d5261433c368/transformed/jetified-realm-android-library-7.0.8/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/aa6d68dfd084a1963a0e24f1843d3ce4/transformed/jetified-realm-android-library-7.0.8/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/aa6d68dfd084a1963a0e24f1843d3ce4/transformed/jetified-realm-android-library-7.0.8/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.realm/realm-android-library/7.0.8/a25a9bb3ce956f426d84964cad7f7cb10b7fb4f/realm-android-library-7.0.8-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.realm/realm-android-library/7.0.8/9bd108f356d828f74b1e199f39a67e4fd3ba7dd9/realm-android-library-7.0.8-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,22 @@
+<component name="libraryTable">
+  <library name="Gradle: com.google.android.gms:play-services-ads-identifier:18.0.0@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/ca6f97a76d5c0182fc2b098c7cd40d20/play-services-ads-identifier-18.0.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/3d273fbed6be87340f20c80f762b3249/play-services-ads-identifier-18.0.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/c379201d7cf5fe64f3f635ca647c2c8a/play-services-ads-identifier-18.0.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/3d273fbed6be87340f20c80f762b3249/play-services-ads-identifier-18.0.0/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/3d273fbed6be87340f20c80f762b3249/play-services-ads-identifier-18.0.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/ba22c18490f3ed84c482b2d435c13fa7/play-services-ads-identifier-18.0.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/9a688158b9f46eab018ad76d0d83c2b9/play-services-ads-identifier-18.0.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/6a78aaa4af5119ad1f0418bb6b104b2b/transformed/jetified-play-services-ads-identifier-18.0.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/b4088a96aabba2b3d554adf716bd6cf3/transformed/jetified-play-services-ads-identifier-18.0.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/937b32e04c972409c8b14f809dcea214/transformed/jetified-play-services-ads-identifier-18.0.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/88c061fb463fe437a515512bc39af6fe/transformed/jetified-play-services-ads-identifier-18.0.0/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/88c061fb463fe437a515512bc39af6fe/transformed/jetified-play-services-ads-identifier-18.0.0/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.android.gms/play-services-ads-identifier/18.0.0/71d2e97dbe034b36f64b28491590ec2b2ec324e3/play-services-ads-identifier-18.0.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES />
+  </library>
+</component>

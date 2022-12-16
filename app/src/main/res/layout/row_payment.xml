@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_marginStart="5dp"
+    android:layout_marginEnd="5dp"
+    android:layout_marginTop="5dp">
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:id="@+id/rlCardExample"
+        android:background="@color/md_white_1000">
+
+        <RelativeLayout
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            android:id="@+id/rlSelectedPayment"
+            android:layout_centerVertical="true"
+            android:layout_marginStart="10dp">
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/ivSelectedPayment"
+                android:visibility="gone"
+                android:src="@drawable/ic_check_black"/>
+        </RelativeLayout>
+
+        <ImageView
+            android:id="@+id/ivCardWhite"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_toEndOf="@+id/rlSelectedPayment"
+            android:layout_marginStart="5dp" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/tvPaymentAddedName"
+            android:layout_centerVertical="true"
+            android:layout_toEndOf="@+id/ivCardWhite"
+            android:layout_toStartOf="@+id/ivDeletePaymentMethod"
+            android:layout_marginEnd="5dp"
+            android:maxLines="2"
+            android:textAllCaps="true"
+            android:textColor="@android:color/black" />
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:padding="10dp"
+            android:id="@+id/ivDeletePaymentMethod"
+            android:src="@drawable/ic_close_black"
+            android:layout_alignParentEnd="true"
+            android:layout_centerVertical="true"/>
+    </RelativeLayout>
+</RelativeLayout>

@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    tools:context=".activities.WelcomeUserActivity"
+    android:background="@android:color/white">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/llLoginInputs"
+            android:gravity="center_horizontal"
+            android:orientation="vertical"
+            android:layout_marginTop="50dp"
+            android:layout_marginStart="20dp"
+            android:layout_marginEnd="20dp">
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@drawable/buscalibre_logo_color"
+                android:layout_marginStart="40dp"
+                android:layout_marginEnd="40dp"/>
+            <com.google.android.material.textfield.TextInputLayout
+                android:id="@+id/tilEmail"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="10dp"
+                android:layout_marginTop="30dp"
+                android:textColorHint="@android:color/darker_gray">
+
+                <com.google.android.material.textfield.TextInputEditText
+                    android:id="@+id/etEmail"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:ems="10"
+                    android:hint="@string/email"
+                    android:inputType="textEmailAddress"
+                    android:maxLines="1"
+                    android:importantForAutofill="noExcludeDescendants"
+                    android:textSize="18sp"
+                    android:textColor="@android:color/black"
+                    android:textColorHighlight="@android:color/black"
+                    android:textColorHint="@android:color/darker_gray"
+                    android:textColorLink="@android:color/darker_gray" />
+            </com.google.android.material.textfield.TextInputLayout>
+            <Button
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/btLogin"
+                android:layout_marginTop="10dp"
+                android:background="@drawable/orange_button_selector"
+                android:textColor="@android:color/white"
+                android:text="@string/next"/>
+            <FrameLayout
+                android:id="@+id/FrameLayout"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content" >
+
+                <com.facebook.login.widget.LoginButton
+                    android:id="@+id/btLoginFacebook"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:visibility="gone" />
+
+                <Button
+                    android:id="@+id/btFb"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="10dp"
+                    android:background="@drawable/fb_button"
+                    android:text="@string/iniciar_con_facebook"
+                    android:textColor="#ffffff"
+                    android:textStyle="bold" />
+
+            </FrameLayout>
+            <com.google.android.gms.common.SignInButton
+                android:id="@+id/btGoogleAuth"
+                android:layout_marginTop="10dp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                app:buttonSize="wide"/>
+        </LinearLayout>
+
+
+    </ScrollView>
+</RelativeLayout>

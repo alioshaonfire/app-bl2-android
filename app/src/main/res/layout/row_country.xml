@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal"
+    android:gravity="center_vertical"
+    android:layout_marginTop="10dp"
+    android:id="@+id/rlRowCountry">
+
+    <ImageView
+        android:layout_width="60sp"
+        android:layout_height="60sp"
+        android:id="@+id/ivCountryFlag"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/tvCountryName"
+        android:layout_toEndOf="@+id/ivCountryFlag"
+        android:layout_toStartOf="@+id/ivCountryCheck"
+        android:layout_marginStart="10dp"
+        android:textColor="@android:color/black"
+        android:layout_marginEnd="10dp"
+        android:textSize="16sp"
+        android:layout_centerVertical="true"/>
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/ivCountryCheck"
+        android:visibility="invisible"
+        android:src="@drawable/ic_check_country"
+        android:layout_alignParentEnd="true"
+        android:layout_centerVertical="true"
+        android:layout_marginEnd="10dp"/>
+</RelativeLayout>

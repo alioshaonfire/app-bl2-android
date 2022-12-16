@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".activities.ControlPanelActivity">
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="60dp"
+        android:id="@+id/ivLogoCountry"
+        android:layout_marginTop="10dp"
+        android:src="@drawable/buscalibre_logo_color"/>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/llMenuButtons"
+        android:visibility="visible"
+        android:layout_centerInParent="true"
+        android:orientation="vertical"
+        android:layout_marginStart="20dp"
+        android:layout_marginEnd="20dp">
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/btShowcase"
+            android:layout_marginTop="10dp"
+            android:background="@drawable/orange_button_selector"
+            android:textColor="@android:color/white"
+            android:text="@string/text107"/>
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/btMyBooks"
+            android:layout_marginTop="10dp"
+            android:background="@drawable/orange_button_selector"
+            android:textColor="@android:color/white"
+            android:text="@string/mis_libros_a_la_venta"/>
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/btPayments"
+            android:layout_marginTop="10dp"
+            android:background="@drawable/orange_button_selector"
+            android:textColor="@android:color/white"
+            android:text="@string/text106"/>
+    </LinearLayout>
+
+</RelativeLayout>

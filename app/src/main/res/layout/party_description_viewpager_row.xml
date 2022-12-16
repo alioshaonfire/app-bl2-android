@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="60dp"
+            android:id="@+id/ivLogoCountry"
+            android:layout_marginTop="10dp"
+            android:src="@drawable/buscalibre_logo_color"/>
+
+        <TextView
+            android:id="@+id/tvTutorialTitle"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/ivLogoCountry"
+            android:layout_centerHorizontal="true"
+            android:layout_marginStart="30dp"
+            android:layout_marginTop="35dp"
+            android:layout_marginEnd="30dp"
+            android:gravity="center_horizontal"
+            android:textColor="@android:color/black"
+            android:textSize="22sp" />
+
+        <ImageView
+            android:id="@+id/ivBannerPartyDescriptionRow"
+            android:layout_width="250dp"
+            android:layout_height="200dp"
+            android:layout_below="@+id/tvTutorialTitle"
+            android:layout_centerHorizontal="true"
+            android:scaleType="fitXY"
+            android:src="@drawable/tutorial_ahorro" />
+
+        <TextView
+            android:id="@+id/tvTutorialDesc"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/ivBannerPartyDescriptionRow"
+            android:layout_centerHorizontal="true"
+            android:layout_marginStart="30dp"
+            android:layout_marginEnd="30dp"
+            android:gravity="center_horizontal"
+            android:text="TEXTO 1"
+            android:textColor="@android:color/black"
+            android:textSize="20sp" />
+    </RelativeLayout>
+
+</FrameLayout>

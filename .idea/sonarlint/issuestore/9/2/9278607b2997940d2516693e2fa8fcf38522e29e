@@ -1,0 +1,29 @@
+
+]
+java:S2259A"BA "NullPointerException" could be thrown; "code" is nullable here.(§öì©ûÿÿÿÿ
+c	java:S116 "NRename this field "TAG" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ğ’İ
+-
+java:S2176"Rename this class.(†–µ÷şÿÿÿÿ
+n
+java:S1450#"SRemove the "body" field and declare it as a local variable in the relevant methods.(ĞÒñãùÿÿÿÿ
+i
+java:S1450$"SRemove the "code" field and declare it as a local variable in the relevant methods.(²âèú
+i
+java:S1450%"SRemove the "data" field and declare it as a local variable in the relevant methods.(àÁá´
+o
+java:S1450!"TRemove the "title" field and declare it as a local variable in the relevant methods.(åõò¹ıÿÿÿÿ
+H
+java:S11351"2Complete the task associated to this TODO comment.(…÷ÈÊ
+X
+java:S1854R"=Remove this useless assignment to local variable "userLogin".(×°ß€úÿÿÿÿ
+I
+java:S1481R".Remove this unused "userLogin" local variable.(×°ß€úÿÿÿÿ
+V	java:S125X"<This block of commented-out lines of code should be removed.(áé×Àùÿÿÿÿ
+I
+java:S1874]".Remove this use of "<init>"; it is deprecated.(£å¶¾ûÿÿÿÿ
+I
+java:S1874x".Remove this use of "<init>"; it is deprecated.(£å¶¾ûÿÿÿÿ
+=
+java:S1068 "'Remove this unused "TAG" private field.(ğ’İ
+B
+java:S1068""'Remove this unused "key" private field.(şÅ¨ùÿÿÿÿ

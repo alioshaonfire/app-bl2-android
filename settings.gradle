@@ -1,0 +1,3 @@
+include ':onepay-release'
+include ':app'
+rootProject.name = "Buscalibre 2.0"

@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: __wrapped_aars__::onepay-release:unspecified@aar">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/onepay-release/build/.transforms/b344b6235da0c8530eda74e7125dcf71/transformed/jetified-onepay-release/AndroidManifest.xml" />
+      <root url="jar://$PROJECT_DIR$/onepay-release/build/.transforms/b344b6235da0c8530eda74e7125dcf71/transformed/jetified-onepay-release/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/onepay-release/build/.transforms/b344b6235da0c8530eda74e7125dcf71/transformed/jetified-onepay-release/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

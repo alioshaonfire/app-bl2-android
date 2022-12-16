@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".activities.SellSuccessActivity">
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="60dp"
+        android:id="@+id/ivLogoCountry"
+        android:layout_marginTop="10dp"
+        android:src="@drawable/buscalibre_logo_color"/>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="30dp"
+        android:gravity="center_horizontal"
+        android:orientation="vertical"
+        android:layout_marginStart="20dp"
+        android:layout_marginEnd="20dp"
+        android:layout_below="@+id/ivLogoCountry">
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/sell_success" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/tvOrderNumber"
+            android:layout_marginTop="10dp"
+            android:textSize="18sp"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:text="@string/text100"
+            android:textColor="@color/md_black_1000"
+            android:textSize="22sp"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/tvGoToConsig"
+            android:layout_marginTop="10dp"
+            android:gravity="center_horizontal"
+            android:text="@string/muchas_gracias_pronto_nos_pondremos_en_contacto_contigo_para_ir_a_buscar_los_libros_puedes_revisar_el_estado_de_esta_operaci_n_en_panel_de_control_consignaciones"
+            android:textSize="18sp"/>
+
+        <Button
+            android:id="@+id/btFinishSellBooks"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            android:background="@drawable/orange_button_selector"
+            android:text="@string/text101"
+            android:textColor="@android:color/white" />
+
+    </LinearLayout>
+
+
+</RelativeLayout>

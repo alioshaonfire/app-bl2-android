@@ -1,0 +1,26 @@
+<component name="libraryTable">
+  <library name="Gradle: com.facebook.react:react-native-community_masked-view:0.1.6-bibooks-7869354@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/83ad7902a8aec8cf4055adf40d4650d5/jetified-react-native-community_masked-view-0.1.6-bibooks-7869354/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/c2d965af0cd22697780108c78c38720f/jetified-react-native-community_masked-view-0.1.6-bibooks-7869354/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/75cda14e02f0077a48e17a6a3bdbb748/react-native-community_masked-view-0.1.6-bibooks-7869354/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/6349a6509b04c74077dfda0f98ffd71a/react-native-community_masked-view-0.1.6-bibooks-7869354/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/c398d31bdf20fa141acbb94f1d03581b/react-native-community_masked-view-0.1.6-bibooks-7869354/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/58a7ee12882aaf3f21180fc92fbe25fc/react-native-community_masked-view-0.1.6-bibooks-7869354/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/9da0a769dcc9bda26af39f5aa760eb76/react-native-community_masked-view-0.1.6-bibooks-7869354/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/58a7ee12882aaf3f21180fc92fbe25fc/react-native-community_masked-view-0.1.6-bibooks-7869354/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/58a7ee12882aaf3f21180fc92fbe25fc/react-native-community_masked-view-0.1.6-bibooks-7869354/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/9b53ac357b9bff340738abb06a3b65af/react-native-community_masked-view-0.1.6-bibooks-7869354/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/48671ec01ca2f092e5824b7872505040/react-native-community_masked-view-0.1.6-bibooks-7869354/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/92f2d8a15334136595c15334e20d6b00/transformed/jetified-react-native-community_masked-view-0.1.6-bibooks-7869354/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/d3e1168c7544c5e8cd2e297041b16686/transformed/jetified-react-native-community_masked-view-0.1.6-bibooks-7869354/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/118cce31f228b4fa16032eadf0e0ccf9/transformed/jetified-react-native-community_masked-view-0.1.6-bibooks-7869354/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/8d598de7d535a21c9aba885c4a71d6e0/transformed/jetified-react-native-community_masked-view-0.1.6-bibooks-7869354/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/8d598de7d535a21c9aba885c4a71d6e0/transformed/jetified-react-native-community_masked-view-0.1.6-bibooks-7869354/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.facebook.react/react-native-community_masked-view/0.1.6-bibooks-7869354/fdb1ba4e4525a096175b786b0ea3a704095bbef3/react-native-community_masked-view-0.1.6-bibooks-7869354-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

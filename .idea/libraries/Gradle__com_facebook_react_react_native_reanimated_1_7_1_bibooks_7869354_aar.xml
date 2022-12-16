@@ -1,0 +1,26 @@
+<component name="libraryTable">
+  <library name="Gradle: com.facebook.react:react-native-reanimated:1.7.1-bibooks-7869354@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/a79825864c595ab745d841d8b7ecb121/jetified-react-native-reanimated-1.7.1-bibooks-7869354/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/76f66361a476e478fa1df87bc44ddaef/jetified-react-native-reanimated-1.7.1-bibooks-7869354/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/b453d775af0deaa3b791b2f7dee002ba/react-native-reanimated-1.7.1-bibooks-7869354/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/499ea54633e04102066435fdda0897da/react-native-reanimated-1.7.1-bibooks-7869354/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/22d4c0d8e4c3380dc926d00005061615/react-native-reanimated-1.7.1-bibooks-7869354/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/2bbbdf37a7867c2922e869c2bfeadb47/react-native-reanimated-1.7.1-bibooks-7869354/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/4d7425eb2b2df3a4c6d580040550aa08/react-native-reanimated-1.7.1-bibooks-7869354/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/2bbbdf37a7867c2922e869c2bfeadb47/react-native-reanimated-1.7.1-bibooks-7869354/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/2bbbdf37a7867c2922e869c2bfeadb47/react-native-reanimated-1.7.1-bibooks-7869354/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/baed064b465f936a36583eb93fc31872/react-native-reanimated-1.7.1-bibooks-7869354/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/dede11cf51f6b7619cdd75bea90fe121/react-native-reanimated-1.7.1-bibooks-7869354/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/f402107b88a29668cf62e0da526719d7/transformed/jetified-react-native-reanimated-1.7.1-bibooks-7869354/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/a431942bd1da12e6fb0ea6315b61e70e/transformed/jetified-react-native-reanimated-1.7.1-bibooks-7869354/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/cfbf9a68eef96c269311ac235e72c84a/transformed/jetified-react-native-reanimated-1.7.1-bibooks-7869354/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/d204eb640212607b568f3cf7ada75eac/transformed/jetified-react-native-reanimated-1.7.1-bibooks-7869354/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/d204eb640212607b568f3cf7ada75eac/transformed/jetified-react-native-reanimated-1.7.1-bibooks-7869354/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.facebook.react/react-native-reanimated/1.7.1-bibooks-7869354/b809e5adbd735da9b2336ca91fc2267b4918fdf5/react-native-reanimated-1.7.1-bibooks-7869354-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

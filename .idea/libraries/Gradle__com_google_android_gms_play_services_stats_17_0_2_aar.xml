@@ -1,0 +1,22 @@
+<component name="libraryTable">
+  <library name="Gradle: com.google.android.gms:play-services-stats:17.0.2@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/d473045f039a99579104375cea0d1c2b/play-services-stats-17.0.2/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/1d9f2f9d0eb9d2dfafc67a0391ec34a1/play-services-stats-17.0.2/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/cf0e7fe79cc94df599702e851ec3a12d/play-services-stats-17.0.2/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/1d9f2f9d0eb9d2dfafc67a0391ec34a1/play-services-stats-17.0.2/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/1d9f2f9d0eb9d2dfafc67a0391ec34a1/play-services-stats-17.0.2/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/7ff798dd9d54eaaadf2f299759296060/play-services-stats-17.0.2/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/42f55612336c65971c4fd6e7341ba0ad/play-services-stats-17.0.2/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/10ade657298b816c9d63fe709f77f614/transformed/jetified-play-services-stats-17.0.2/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/a67ade3d75e6a6161a2cd5a9077b4cb4/transformed/jetified-play-services-stats-17.0.2/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/a3371860b60df92b5fb2db7536472673/transformed/jetified-play-services-stats-17.0.2/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/7a107d407c1cc272f493c3863995e210/transformed/jetified-play-services-stats-17.0.2/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/7a107d407c1cc272f493c3863995e210/transformed/jetified-play-services-stats-17.0.2/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.android.gms/play-services-stats/17.0.2/c0d58b8efa926b2c607984c54fb3d274490badd1/play-services-stats-17.0.2-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_marginStart="20dp"
+    android:layout_marginEnd="20dp"
+    tools:context=".activities.SelectCountryActivity"
+    android:background="@android:color/white">
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="60dp"
+        android:id="@+id/ivLogoCountry"
+        android:layout_marginTop="10dp"
+        android:src="@drawable/buscalibre_logo_color"/>
+    <androidx.swiperefreshlayout.widget.SwipeRefreshLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/srlCountryList"
+        android:layout_marginBottom="5dp"
+        android:layout_below="@+id/ivLogoCountry"
+        android:layout_marginTop="10dp"
+        android:layout_above="@+id/btConfirmCountry">
+        <androidx.recyclerview.widget.RecyclerView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:id="@+id/rvCountries" />
+    </androidx.swiperefreshlayout.widget.SwipeRefreshLayout>
+
+
+    <Button
+        android:id="@+id/btConfirmCountry"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_marginTop="10dp"
+        android:layout_marginBottom="10dp"
+        android:background="@drawable/orange_button_selector"
+        android:onClick="confirmCountrySelectedOnClick"
+        android:text="@string/next"
+        android:textColor="@android:color/white" />
+</RelativeLayout>

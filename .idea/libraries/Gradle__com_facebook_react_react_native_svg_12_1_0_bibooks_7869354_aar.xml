@@ -1,0 +1,26 @@
+<component name="libraryTable">
+  <library name="Gradle: com.facebook.react:react-native-svg:12.1.0-bibooks-7869354@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/8a5c137e660c5c1c959ffe1e19abbc7c/jetified-react-native-svg-12.1.0-bibooks-7869354/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/fe7a535a6a52304a5fe4d6fb1d462784/jetified-react-native-svg-12.1.0-bibooks-7869354/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/7bf82e48141bc83a425fe2b150c73184/react-native-svg-12.1.0-bibooks-7869354/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/3bade59baf9ebfef67db960912e95649/react-native-svg-12.1.0-bibooks-7869354/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/3f1248066cd683e08d8870e0afd28ce5/react-native-svg-12.1.0-bibooks-7869354/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/e757cc4bdb99dac756310c2f57cf04d1/react-native-svg-12.1.0-bibooks-7869354/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/dda83c2d2c68c70777ab01266748157b/react-native-svg-12.1.0-bibooks-7869354/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/e757cc4bdb99dac756310c2f57cf04d1/react-native-svg-12.1.0-bibooks-7869354/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/e757cc4bdb99dac756310c2f57cf04d1/react-native-svg-12.1.0-bibooks-7869354/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/937359d4a7d233bd2bc58e7081c7b270/react-native-svg-12.1.0-bibooks-7869354/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/a4dd7d690f30d4860ff4e23aa1598b29/react-native-svg-12.1.0-bibooks-7869354/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/be44f77e52207bdeb8f55411b484450b/transformed/jetified-react-native-svg-12.1.0-bibooks-7869354/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/2562a1a3a3168cb46d2aa26ccb5b88ef/transformed/jetified-react-native-svg-12.1.0-bibooks-7869354/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/36ce4565d096225dcb6f851a027e70b8/transformed/jetified-react-native-svg-12.1.0-bibooks-7869354/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/f86c9c99c62b212803609c7aa5a9c57c/transformed/jetified-react-native-svg-12.1.0-bibooks-7869354/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/f86c9c99c62b212803609c7aa5a9c57c/transformed/jetified-react-native-svg-12.1.0-bibooks-7869354/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.facebook.react/react-native-svg/12.1.0-bibooks-7869354/26467600b7c9afb3e42a49633242ce87f6a6cf57/react-native-svg-12.1.0-bibooks-7869354-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

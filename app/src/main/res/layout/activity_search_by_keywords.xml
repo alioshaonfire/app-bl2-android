@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:android.support.design="http://schemas.android.com/apk/res-auto"
+    tools:context=".activities.SearchByKeywordsActivity">
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="60dp"
+        android:id="@+id/ivLogoCountry"
+        android:layout_marginTop="10dp"
+        android:src="@drawable/buscalibre_logo_color"/>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/ivLogoCountry"
+        android:orientation="vertical"
+        android:layout_marginStart="20dp"
+        android:layout_marginEnd="20dp"
+        android:layout_marginTop="20dp">
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="16sp"
+            android:text="@string/text19"
+            android:layout_marginTop="10dp"/>
+        <com.google.android.material.textfield.TextInputLayout
+            android:id="@+id/tilKeySearch"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="10dp"
+            android:layout_marginTop="20dp"
+            android.support.design:hintAnimationEnabled="true"
+            android.support.design:hintEnabled="true"
+            android:hint="@string/text20"
+            android:textColorHint="@android:color/darker_gray">
+
+            <EditText
+                android:id="@+id/etKeySearch"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:ems="10"
+                android:inputType="text"
+                android:maxLines="1"
+                android:imeOptions="actionSearch"
+                android:textColor="@android:color/black"
+                android:textColorHint="@android:color/darker_gray" />
+        </com.google.android.material.textfield.TextInputLayout>
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/btSearchKeyword"
+            android:layout_marginTop="10dp"
+            android:onClick="searchOnClick"
+            android:background="@drawable/orange_button_selector"
+            android:textColor="@android:color/white"
+            android:text="@string/text18"
+            android:layout_marginBottom="10dp" />
+    </LinearLayout>
+</RelativeLayout>

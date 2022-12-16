@@ -1,0 +1,26 @@
+<component name="libraryTable">
+  <library name="Gradle: com.facebook.react:react-native-haptic-feedback:1.10.0-bibooks-7869354@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/cc7b30e1483bb8f1f53aba7935251f35/jetified-react-native-haptic-feedback-1.10.0-bibooks-7869354/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/e5a86f2f435ed5b96862df4b983f1c62/jetified-react-native-haptic-feedback-1.10.0-bibooks-7869354/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/ed090a4078d04826006af41f84fcc99b/react-native-haptic-feedback-1.10.0-bibooks-7869354/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/e13aa83b71512ddac10d8b039949e1cc/react-native-haptic-feedback-1.10.0-bibooks-7869354/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/e4bc2e96b50faaf240327b96388a59f6/react-native-haptic-feedback-1.10.0-bibooks-7869354/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/96b1f6a51c30e9ddf59e750420ebb91e/react-native-haptic-feedback-1.10.0-bibooks-7869354/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/9ab9fe04f30ec4d846f553b19382ff3d/react-native-haptic-feedback-1.10.0-bibooks-7869354/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/96b1f6a51c30e9ddf59e750420ebb91e/react-native-haptic-feedback-1.10.0-bibooks-7869354/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/96b1f6a51c30e9ddf59e750420ebb91e/react-native-haptic-feedback-1.10.0-bibooks-7869354/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/d169bf3473a43c894ac47c0d0a0a2d15/react-native-haptic-feedback-1.10.0-bibooks-7869354/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/b1b198dd99b7c322a6aeb5e5905361ae/react-native-haptic-feedback-1.10.0-bibooks-7869354/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/d8e1bd4d2e60db30aaf73c0337317b54/transformed/jetified-react-native-haptic-feedback-1.10.0-bibooks-7869354/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/94b8e5af5d854597e52d7993efc7a045/transformed/jetified-react-native-haptic-feedback-1.10.0-bibooks-7869354/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/dec6b3a8cb28c83300da65836bf3d98d/transformed/jetified-react-native-haptic-feedback-1.10.0-bibooks-7869354/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/09064efb567ae76b97daf6898636da9e/transformed/jetified-react-native-haptic-feedback-1.10.0-bibooks-7869354/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/09064efb567ae76b97daf6898636da9e/transformed/jetified-react-native-haptic-feedback-1.10.0-bibooks-7869354/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.facebook.react/react-native-haptic-feedback/1.10.0-bibooks-7869354/9b8f6cb4f0662d35b78450ddaab603a35542570e/react-native-haptic-feedback-1.10.0-bibooks-7869354-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

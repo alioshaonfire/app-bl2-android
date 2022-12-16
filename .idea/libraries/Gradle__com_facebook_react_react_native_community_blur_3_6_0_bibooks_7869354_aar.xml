@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="Gradle: com.facebook.react:react-native-community_blur:3.6.0-bibooks-7869354@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/9aa712f5d13f678411255bd454c83fb3/react-native-community_blur-3.6.0-bibooks-7869354/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/9aa712f5d13f678411255bd454c83fb3/react-native-community_blur-3.6.0-bibooks-7869354/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/9aa712f5d13f678411255bd454c83fb3/react-native-community_blur-3.6.0-bibooks-7869354/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/685d589748a3c7ced6accc9ce91141f2/transformed/jetified-react-native-community_blur-3.6.0-bibooks-7869354/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/685d589748a3c7ced6accc9ce91141f2/transformed/jetified-react-native-community_blur-3.6.0-bibooks-7869354/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/685d589748a3c7ced6accc9ce91141f2/transformed/jetified-react-native-community_blur-3.6.0-bibooks-7869354/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.facebook.react/react-native-community_blur/3.6.0-bibooks-7869354/32a8e4502e1156c88e2c7bb55bd87cc822b9b466/react-native-community_blur-3.6.0-bibooks-7869354-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,48 @@
+<component name="libraryTable">
+  <library name="Gradle: com.eightbitlab:blurview:1.6.3@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/84218910c4dcdff2fb9734876ef2ec3a/jetified-blurview-1.6.3/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/84218910c4dcdff2fb9734876ef2ec3a/jetified-blurview-1.6.3/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/84218910c4dcdff2fb9734876ef2ec3a/jetified-blurview-1.6.3/jars/classes.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/37764a1dc6adbb9e9f739dc988b37e2f/jetified-blurview-1.6.3/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/37764a1dc6adbb9e9f739dc988b37e2f/jetified-blurview-1.6.3/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/37764a1dc6adbb9e9f739dc988b37e2f/jetified-blurview-1.6.3/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/60a79d926573f49248e24e70cf9393c6/jetified-blurview-1.6.3/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/60a79d926573f49248e24e70cf9393c6/jetified-blurview-1.6.3/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/60a79d926573f49248e24e70cf9393c6/jetified-blurview-1.6.3/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/22c3db0a5f6dcd415639f2a6e9d76b4e/jetified-blurview-1.6.3/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/22c3db0a5f6dcd415639f2a6e9d76b4e/jetified-blurview-1.6.3/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/22c3db0a5f6dcd415639f2a6e9d76b4e/jetified-blurview-1.6.3/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/88bb77eb6c777460e50a3a49c40a84f7/transformed/jetified-blurview-1.6.3/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/88bb77eb6c777460e50a3a49c40a84f7/transformed/jetified-blurview-1.6.3/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/88bb77eb6c777460e50a3a49c40a84f7/transformed/jetified-blurview-1.6.3/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/a6ef1b491670e7eabb6535e5b291bfd2/transformed/jetified-blurview-1.6.3/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/a6ef1b491670e7eabb6535e5b291bfd2/transformed/jetified-blurview-1.6.3/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/a6ef1b491670e7eabb6535e5b291bfd2/transformed/jetified-blurview-1.6.3/jars/classes.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/b099c6eedbaee8e0be13e6297c4b2b9a/transformed/jetified-blurview-1.6.3/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/b099c6eedbaee8e0be13e6297c4b2b9a/transformed/jetified-blurview-1.6.3/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/b099c6eedbaee8e0be13e6297c4b2b9a/transformed/jetified-blurview-1.6.3/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/022bb1a7addaa2cea5fc11573d5ab24d/transformed/jetified-blurview-1.6.3/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/022bb1a7addaa2cea5fc11573d5ab24d/transformed/jetified-blurview-1.6.3/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/022bb1a7addaa2cea5fc11573d5ab24d/transformed/jetified-blurview-1.6.3/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/bde6f4a720f5d1ebe9bea5097b39322a/transformed/jetified-blurview-1.6.3/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/bde6f4a720f5d1ebe9bea5097b39322a/transformed/jetified-blurview-1.6.3/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/bde6f4a720f5d1ebe9bea5097b39322a/transformed/jetified-blurview-1.6.3/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/9076253067b39794d63b16eda71190cc/transformed/jetified-blurview-1.6.3/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/9076253067b39794d63b16eda71190cc/transformed/jetified-blurview-1.6.3/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/9076253067b39794d63b16eda71190cc/transformed/jetified-blurview-1.6.3/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/129ed339a7675091e2da8aee21546971/transformed/jetified-blurview-1.6.3/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/129ed339a7675091e2da8aee21546971/transformed/jetified-blurview-1.6.3/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/129ed339a7675091e2da8aee21546971/transformed/jetified-blurview-1.6.3/jars/classes.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/c5cd030c65d5cf88e248cf8f3f2d92a7/transformed/jetified-blurview-1.6.3/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/c5cd030c65d5cf88e248cf8f3f2d92a7/transformed/jetified-blurview-1.6.3/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/c5cd030c65d5cf88e248cf8f3f2d92a7/transformed/jetified-blurview-1.6.3/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.eightbitlab/blurview/1.6.3/ae56f8d7992ed894beb5b6c01338193bfb0042ba/blurview-1.6.3-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.eightbitlab/blurview/1.6.3/14d3e7dcdda085d89df01523a28a5ccfe65c4c66/blurview-1.6.3-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

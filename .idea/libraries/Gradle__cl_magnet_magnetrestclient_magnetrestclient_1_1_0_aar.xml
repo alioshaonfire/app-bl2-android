@@ -1,0 +1,57 @@
+<component name="libraryTable">
+  <library name="Gradle: cl.magnet.magnetrestclient:magnetrestclient:1.1.0@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/c865cf411c6a3a82f5bc359efffc9864/jetified-magnetrestclient-1.1.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/c865cf411c6a3a82f5bc359efffc9864/jetified-magnetrestclient-1.1.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/c865cf411c6a3a82f5bc359efffc9864/jetified-magnetrestclient-1.1.0/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/9789c7f379f8880bc486117e01caa353/jetified-magnetrestclient-1.1.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/9789c7f379f8880bc486117e01caa353/jetified-magnetrestclient-1.1.0/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/9789c7f379f8880bc486117e01caa353/jetified-magnetrestclient-1.1.0/jars/classes.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/6a3bc03e128425219cca2c305acdaaa9/jetified-magnetrestclient-1.1.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/6a3bc03e128425219cca2c305acdaaa9/jetified-magnetrestclient-1.1.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/6a3bc03e128425219cca2c305acdaaa9/jetified-magnetrestclient-1.1.0/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/e4adcb56847af1672340f5bc6d0e41db/jetified-magnetrestclient-1.1.0/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/e4adcb56847af1672340f5bc6d0e41db/jetified-magnetrestclient-1.1.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/e4adcb56847af1672340f5bc6d0e41db/jetified-magnetrestclient-1.1.0/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/3c99cfc5823186204fa1a4ca65f53a12/jetified-magnetrestclient-1.1.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/3c99cfc5823186204fa1a4ca65f53a12/jetified-magnetrestclient-1.1.0/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/3c99cfc5823186204fa1a4ca65f53a12/jetified-magnetrestclient-1.1.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/d8f2f6853337532b6af857250418b77a/jetified-magnetrestclient-1.1.0/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/d8f2f6853337532b6af857250418b77a/jetified-magnetrestclient-1.1.0/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/d8f2f6853337532b6af857250418b77a/jetified-magnetrestclient-1.1.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/264ebe31d4cc10f5b342fbeb8f39d4dc/jetified-magnetrestclient-1.1.0/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/264ebe31d4cc10f5b342fbeb8f39d4dc/jetified-magnetrestclient-1.1.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/264ebe31d4cc10f5b342fbeb8f39d4dc/jetified-magnetrestclient-1.1.0/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/53c829b26e8ed4cdd1060958ab050936/transformed/jetified-magnetrestclient-1.1.0/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/53c829b26e8ed4cdd1060958ab050936/transformed/jetified-magnetrestclient-1.1.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/53c829b26e8ed4cdd1060958ab050936/transformed/jetified-magnetrestclient-1.1.0/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/262bf3f2b2143b5c2a8463982ba87778/transformed/jetified-magnetrestclient-1.1.0/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/262bf3f2b2143b5c2a8463982ba87778/transformed/jetified-magnetrestclient-1.1.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/262bf3f2b2143b5c2a8463982ba87778/transformed/jetified-magnetrestclient-1.1.0/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/3d5a593ad0cfd5332893799b032d3a7f/transformed/jetified-magnetrestclient-1.1.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/3d5a593ad0cfd5332893799b032d3a7f/transformed/jetified-magnetrestclient-1.1.0/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/3d5a593ad0cfd5332893799b032d3a7f/transformed/jetified-magnetrestclient-1.1.0/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/d8d51c5799faac7f8425c6987b591cbf/transformed/jetified-magnetrestclient-1.1.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/d8d51c5799faac7f8425c6987b591cbf/transformed/jetified-magnetrestclient-1.1.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/d8d51c5799faac7f8425c6987b591cbf/transformed/jetified-magnetrestclient-1.1.0/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/26fbc5cef143efaa64e073d3766eaa7b/transformed/jetified-magnetrestclient-1.1.0/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/26fbc5cef143efaa64e073d3766eaa7b/transformed/jetified-magnetrestclient-1.1.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/26fbc5cef143efaa64e073d3766eaa7b/transformed/jetified-magnetrestclient-1.1.0/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/7892f112725d5ff8d5553d663e234f2c/transformed/jetified-magnetrestclient-1.1.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/7892f112725d5ff8d5553d663e234f2c/transformed/jetified-magnetrestclient-1.1.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/7892f112725d5ff8d5553d663e234f2c/transformed/jetified-magnetrestclient-1.1.0/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/f3a4c31a8851d042be2333daa703ce30/transformed/jetified-magnetrestclient-1.1.0/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/f3a4c31a8851d042be2333daa703ce30/transformed/jetified-magnetrestclient-1.1.0/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/f3a4c31a8851d042be2333daa703ce30/transformed/jetified-magnetrestclient-1.1.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/dfcf9830ef67da34ad1efac68402def7/transformed/jetified-magnetrestclient-1.1.0/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/dfcf9830ef67da34ad1efac68402def7/transformed/jetified-magnetrestclient-1.1.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/dfcf9830ef67da34ad1efac68402def7/transformed/jetified-magnetrestclient-1.1.0/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/cl.magnet.magnetrestclient/magnetrestclient/1.1.0/ca6e6c894bd0b752807d1cd2b94051181605e9/magnetrestclient-1.1.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/cl.magnet.magnetrestclient/magnetrestclient/1.1.0/b9e48c3fca6fe19e3f091aa28251699c77d52cbf/magnetrestclient-1.1.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

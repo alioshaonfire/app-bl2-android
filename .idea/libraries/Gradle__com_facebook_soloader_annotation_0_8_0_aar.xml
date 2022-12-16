@@ -1,0 +1,28 @@
+<component name="libraryTable">
+  <library name="Gradle: com.facebook.soloader:annotation:0.8.0@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/9e84ff6508871991b51b8f2145f2af71/jetified-annotation-0.8.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/7a474ec8099cb68c18db997f9fa9cf15/jetified-annotation-0.8.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/5b449fb398c76672a6d387b3cae6a646/annotation-0.8.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/2338b448d6dae210e30a02e67a72d198/annotation-0.8.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/cab2ad10fe775c3d298665b13a6fa614/annotation-0.8.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/f163f35bb5c880d452cd8bea32a8da6b/annotation-0.8.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/76df3f6e81f26801002a2a637c6f33c5/annotation-0.8.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/f163f35bb5c880d452cd8bea32a8da6b/annotation-0.8.0/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/f163f35bb5c880d452cd8bea32a8da6b/annotation-0.8.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/ac10337838ece48097ff3da5fe18d0bc/annotation-0.8.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/96810b93b2d9880404380e2ca1852029/annotation-0.8.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/6364b20d04389269ca154e29b158a080/transformed/jetified-annotation-0.8.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/6b1ee33d3391900be3d6398b93b9592d/transformed/jetified-annotation-0.8.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/4e015c1be33bcb7576600b544dc158da/transformed/jetified-annotation-0.8.0/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/8d2b974204cfc32684f737e509d10c1b/transformed/jetified-annotation-0.8.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/8d2b974204cfc32684f737e509d10c1b/transformed/jetified-annotation-0.8.0/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.facebook.soloader/annotation/0.8.0/a2fae398964a73c913cc246c928a32b0ea7bf02d/annotation-0.8.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.facebook.soloader/annotation/0.8.0/f3328a2374b08a76aba8d5109d73cbf006b12b1/annotation-0.8.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

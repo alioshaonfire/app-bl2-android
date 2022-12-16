@@ -1,0 +1,26 @@
+<component name="libraryTable">
+  <library name="Gradle: com.facebook.react:react-native-linear-gradient:2.5.6-bibooks-7869354@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/ee5e1499ba31b13fa0fb1dc70e35fd3d/jetified-react-native-linear-gradient-2.5.6-bibooks-7869354/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/f160dbd37bdb7197607cfeda1e84090a/jetified-react-native-linear-gradient-2.5.6-bibooks-7869354/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/1f3f71b51b5bb1d86ab696ac4f9b2417/react-native-linear-gradient-2.5.6-bibooks-7869354/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/02fdf367769c4ccdc19b95100e44a1f8/react-native-linear-gradient-2.5.6-bibooks-7869354/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/ba5f49d2a6700861448a09936bfb7fd9/react-native-linear-gradient-2.5.6-bibooks-7869354/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/454758274976e3945b098eee81d0f523/react-native-linear-gradient-2.5.6-bibooks-7869354/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/885b4ae3b0b66a71bb9477e18ed2f51c/react-native-linear-gradient-2.5.6-bibooks-7869354/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/454758274976e3945b098eee81d0f523/react-native-linear-gradient-2.5.6-bibooks-7869354/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/454758274976e3945b098eee81d0f523/react-native-linear-gradient-2.5.6-bibooks-7869354/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/41e21d837e31cb568ebbd4b0710eb5f5/react-native-linear-gradient-2.5.6-bibooks-7869354/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/88f7152d077ef5d12e6514d46e58bd31/react-native-linear-gradient-2.5.6-bibooks-7869354/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/d82ef1d430f2099a11dc81c1be99d031/transformed/jetified-react-native-linear-gradient-2.5.6-bibooks-7869354/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/779dbb8b6aad40a8b5ab36ca54305836/transformed/jetified-react-native-linear-gradient-2.5.6-bibooks-7869354/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/e40341d3bcd86eb62a405011b17dee33/transformed/jetified-react-native-linear-gradient-2.5.6-bibooks-7869354/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/64ae96678ba03942413a2daed03724a4/transformed/jetified-react-native-linear-gradient-2.5.6-bibooks-7869354/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/64ae96678ba03942413a2daed03724a4/transformed/jetified-react-native-linear-gradient-2.5.6-bibooks-7869354/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.facebook.react/react-native-linear-gradient/2.5.6-bibooks-7869354/7a2cfa79ca93ba7d73992a4e5f3142c5efe28676/react-native-linear-gradient-2.5.6-bibooks-7869354-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

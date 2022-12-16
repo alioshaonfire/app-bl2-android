@@ -1,0 +1,26 @@
+<component name="libraryTable">
+  <library name="Gradle: com.facebook.react:react-native-gesture-handler:1.6.1-bibooks-7869354@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/113e862f757fbdce7a507a440bdb0c45/jetified-react-native-gesture-handler-1.6.1-bibooks-7869354/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/aa63dc1ee37388c714c7c85d68796789/jetified-react-native-gesture-handler-1.6.1-bibooks-7869354/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/0f1d134c266560cef8526b1ef37c6020/react-native-gesture-handler-1.6.1-bibooks-7869354/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/fa51f0567e3afa03b18ba1cc10f2155f/react-native-gesture-handler-1.6.1-bibooks-7869354/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/ed7d5cc21125a2aeff13bde4d5fd4c4b/react-native-gesture-handler-1.6.1-bibooks-7869354/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/516b42e24478408db2f9429ef9843c44/react-native-gesture-handler-1.6.1-bibooks-7869354/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/f22a6250f7e591c2582e75b155d7832b/react-native-gesture-handler-1.6.1-bibooks-7869354/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/516b42e24478408db2f9429ef9843c44/react-native-gesture-handler-1.6.1-bibooks-7869354/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/516b42e24478408db2f9429ef9843c44/react-native-gesture-handler-1.6.1-bibooks-7869354/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/5fb5d3eb5a0d5d596bd4855699781e2f/react-native-gesture-handler-1.6.1-bibooks-7869354/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/faeb971818ae4a227925de8829c41977/react-native-gesture-handler-1.6.1-bibooks-7869354/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/55543dbc66b76a302800bcf87c71726e/transformed/jetified-react-native-gesture-handler-1.6.1-bibooks-7869354/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/49138e1512fe74566b60643559ef7e54/transformed/jetified-react-native-gesture-handler-1.6.1-bibooks-7869354/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/fb2214d29f9a3643543773bbe464fbde/transformed/jetified-react-native-gesture-handler-1.6.1-bibooks-7869354/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/504936157ccf53f40a179017ef79a56a/transformed/jetified-react-native-gesture-handler-1.6.1-bibooks-7869354/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/504936157ccf53f40a179017ef79a56a/transformed/jetified-react-native-gesture-handler-1.6.1-bibooks-7869354/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.facebook.react/react-native-gesture-handler/1.6.1-bibooks-7869354/15d7a9959ea47005f7c256c8d8a3f4a2e4e7342a/react-native-gesture-handler-1.6.1-bibooks-7869354-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

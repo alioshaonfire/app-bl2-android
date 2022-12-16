@@ -1,0 +1,26 @@
+<component name="libraryTable">
+  <library name="Gradle: com.facebook.react:react-native-fs:2.16.6-bibooks-7869354@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/8b0d29232b1abfdc191a8c4dd561a6e3/jetified-react-native-fs-2.16.6-bibooks-7869354/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/487c9723f10cea3d730d10bda8b95d31/jetified-react-native-fs-2.16.6-bibooks-7869354/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/c932153e9e0ddbf7e6a6a59ca8c9f870/react-native-fs-2.16.6-bibooks-7869354/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/927e0b73a50857576797dff2a95c5ef4/react-native-fs-2.16.6-bibooks-7869354/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/b6ebe696d6bcb36e425d2197fa38739d/react-native-fs-2.16.6-bibooks-7869354/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/81040d94dd40b9635813d82dba26ec09/react-native-fs-2.16.6-bibooks-7869354/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/8320532c73b0fefd05da4efe9e97d78f/react-native-fs-2.16.6-bibooks-7869354/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/81040d94dd40b9635813d82dba26ec09/react-native-fs-2.16.6-bibooks-7869354/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/81040d94dd40b9635813d82dba26ec09/react-native-fs-2.16.6-bibooks-7869354/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/1433ec141c1dc86f9aeb851bad106c79/react-native-fs-2.16.6-bibooks-7869354/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/f8bf2e3a1c864473c2b0223efcf963f5/react-native-fs-2.16.6-bibooks-7869354/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/e1e6fff25f942e7dabf204780dba034e/transformed/jetified-react-native-fs-2.16.6-bibooks-7869354/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/a7b184a39beeaa373c695cbc84a6a244/transformed/jetified-react-native-fs-2.16.6-bibooks-7869354/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/01abd678dfb649e0745ac5e722f86b3c/transformed/jetified-react-native-fs-2.16.6-bibooks-7869354/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/c8b2e0329b1e210c81fa3a743f4d4152/transformed/jetified-react-native-fs-2.16.6-bibooks-7869354/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/c8b2e0329b1e210c81fa3a743f4d4152/transformed/jetified-react-native-fs-2.16.6-bibooks-7869354/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.facebook.react/react-native-fs/2.16.6-bibooks-7869354/70e122037e8288374324b2822bc7df43dfce004f/react-native-fs-2.16.6-bibooks-7869354-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

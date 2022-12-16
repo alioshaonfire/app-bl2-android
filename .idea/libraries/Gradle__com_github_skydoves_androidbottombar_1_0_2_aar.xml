@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.skydoves:androidbottombar:1.0.2@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/119db04217b3547cc5fadfdf3382aeca/transformed/jetified-androidbottombar-1.0.2/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/119db04217b3547cc5fadfdf3382aeca/transformed/jetified-androidbottombar-1.0.2/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/119db04217b3547cc5fadfdf3382aeca/transformed/jetified-androidbottombar-1.0.2/res" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.skydoves/androidbottombar/1.0.2/30a4abcb69c2f6723c207aa56ceda6db1b7bc74c/androidbottombar-1.0.2-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.skydoves/androidbottombar/1.0.2/e901bb447f6112ae2092ca0986c2147052a06860/androidbottombar-1.0.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

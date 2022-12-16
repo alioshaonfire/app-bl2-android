@@ -1,0 +1,68 @@
+<component name="libraryTable">
+  <library name="Gradle: io.realm:android-adapters:2.1.1@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/e71f4af25a7c0631d58ccfcf28e1ba08/jetified-android-adapters-2.1.1/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/e71f4af25a7c0631d58ccfcf28e1ba08/jetified-android-adapters-2.1.1/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/e71f4af25a7c0631d58ccfcf28e1ba08/jetified-android-adapters-2.1.1/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/a2f3faa7f96cbe243a6617f4d7c340d5/jetified-android-adapters-2.1.1/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/a2f3faa7f96cbe243a6617f4d7c340d5/jetified-android-adapters-2.1.1/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/a2f3faa7f96cbe243a6617f4d7c340d5/jetified-android-adapters-2.1.1/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/7d1bf2a75b196b6ca1a7b0008f79bf05/jetified-android-adapters-2.1.1/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/b52ce56852c2fdb5e7fdca03a30f8736/jetified-android-adapters-2.1.1/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/c348d034c834302750dd441ad2cb247d/jetified-android-adapters-2.1.1/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/c348d034c834302750dd441ad2cb247d/jetified-android-adapters-2.1.1/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/c348d034c834302750dd441ad2cb247d/jetified-android-adapters-2.1.1/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/c54aae2122a3c2d03eee46192fb4562b/jetified-android-adapters-2.1.1/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/7008acbb152c64efc227539ecd382617/jetified-android-adapters-2.1.1/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/ecdeeeaa97c1e0924becc7190d8947b7/jetified-android-adapters-2.1.1/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/ecdeeeaa97c1e0924becc7190d8947b7/jetified-android-adapters-2.1.1/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/ecdeeeaa97c1e0924becc7190d8947b7/jetified-android-adapters-2.1.1/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/f8495f2026b7e8ce53a67f961518ff3d/jetified-android-adapters-2.1.1/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/f8495f2026b7e8ce53a67f961518ff3d/jetified-android-adapters-2.1.1/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/f8495f2026b7e8ce53a67f961518ff3d/jetified-android-adapters-2.1.1/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/80b2cea76c49e5e89ea977d0bbc8105e/jetified-android-adapters-2.1.1/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/6e679ffe573572bdd7eca236c2fc8619/jetified-android-adapters-2.1.1/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/3cb5c839168ee7a61fc106c9909dfcb8/jetified-android-adapters-2.1.1/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/3cb5c839168ee7a61fc106c9909dfcb8/jetified-android-adapters-2.1.1/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/3cb5c839168ee7a61fc106c9909dfcb8/jetified-android-adapters-2.1.1/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/7f5505e716168bbf7f8f7facf7c0b496/jetified-android-adapters-2.1.1/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/350cd2d38fc9541149e81b023f2e1dc2/jetified-android-adapters-2.1.1/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/d716155ebeea22f242005a6f8ee211eb/jetified-android-adapters-2.1.1/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/07e3a125c45a261f92828115c80d44de/jetified-android-adapters-2.1.1/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/d716155ebeea22f242005a6f8ee211eb/jetified-android-adapters-2.1.1/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/d716155ebeea22f242005a6f8ee211eb/jetified-android-adapters-2.1.1/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/1000123475273f127b0a065cbfb505b0/jetified-android-adapters-2.1.1/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/4127b9184dc4e85854edb51f1bc5f4f8/jetified-android-adapters-2.1.1/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/3fbbdfdd1c18926e8e1757743ced4469/transformed/jetified-android-adapters-2.1.1/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/3fbbdfdd1c18926e8e1757743ced4469/transformed/jetified-android-adapters-2.1.1/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/3fbbdfdd1c18926e8e1757743ced4469/transformed/jetified-android-adapters-2.1.1/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/86ec6040d686eae693e066b9f0f0c319/transformed/jetified-android-adapters-2.1.1/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/86ec6040d686eae693e066b9f0f0c319/transformed/jetified-android-adapters-2.1.1/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/86ec6040d686eae693e066b9f0f0c319/transformed/jetified-android-adapters-2.1.1/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/19ce6e9b118c17a357af81b9be9a222d/transformed/jetified-android-adapters-2.1.1/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/8b5e9ec62bfe2d15440db7c51ce89057/transformed/jetified-android-adapters-2.1.1/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/5c35ccf5317958b5b74237a43652e337/transformed/jetified-android-adapters-2.1.1/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/5c35ccf5317958b5b74237a43652e337/transformed/jetified-android-adapters-2.1.1/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/5c35ccf5317958b5b74237a43652e337/transformed/jetified-android-adapters-2.1.1/jars/classes.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/0bf03e82868c34294243b91eac7f82b9/transformed/jetified-android-adapters-2.1.1/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/0bf03e82868c34294243b91eac7f82b9/transformed/jetified-android-adapters-2.1.1/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/0bf03e82868c34294243b91eac7f82b9/transformed/jetified-android-adapters-2.1.1/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/4d4904b04dbaac9436dd9a3fecbe20fb/transformed/jetified-android-adapters-2.1.1/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/4d4904b04dbaac9436dd9a3fecbe20fb/transformed/jetified-android-adapters-2.1.1/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/4d4904b04dbaac9436dd9a3fecbe20fb/transformed/jetified-android-adapters-2.1.1/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/0b9ebc6d446ef8b942c0e01058450c92/transformed/jetified-android-adapters-2.1.1/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/0b9ebc6d446ef8b942c0e01058450c92/transformed/jetified-android-adapters-2.1.1/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/0b9ebc6d446ef8b942c0e01058450c92/transformed/jetified-android-adapters-2.1.1/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/eefd571bac854f46b37d018ac3376fb9/transformed/jetified-android-adapters-2.1.1/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/eefd571bac854f46b37d018ac3376fb9/transformed/jetified-android-adapters-2.1.1/jars/classes.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/f94156b4b1f423935a8c4a7071f86eed/transformed/jetified-android-adapters-2.1.1/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/f94156b4b1f423935a8c4a7071f86eed/transformed/jetified-android-adapters-2.1.1/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.realm/android-adapters/2.1.1/5c511bebf33feb7e7798d98a62478292d3d3c1a8/android-adapters-2.1.1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.realm/android-adapters/2.1.1/99204ee47e3c8027e1a9920bbdc02a12799325fc/android-adapters-2.1.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

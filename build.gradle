@@ -1,0 +1,41 @@
+buildscript {
+    repositories {
+        google()
+        jcenter()
+        maven {
+            url 'https://oss.jfrog.org/artifactory/oss-snapshot-local'
+        }
+    }
+    dependencies {
+        classpath 'com.android.tools.build:gradle:7.3.1'
+        classpath "org.jetbrains.kotlin:kotlin-gradle-plugin:1.7.20"
+        classpath "io.realm:realm-gradle-plugin:7.0.8"
+        classpath 'com.google.gms:google-services:4.3.14'
+        classpath 'com.google.firebase:firebase-crashlytics-gradle:2.9.2'
+    }
+}
+
+allprojects {
+    repositories {
+        google()
+        jcenter()
+        mavenCentral()
+        maven { url "https://jitpack.io" }
+        maven { url 'https://oss.jfrog.org/artifactory/oss-snapshot-local' }
+        maven {
+            url "https://raw.githubusercontent.com/BinPar/sdk-buscalibre-releases/master/android"
+            credentials(HttpHeaderCredentials) {
+                name = "Authorization"
+                value = findProperty("personal.token")
+                println value
+            }
+            authentication {
+                header(HttpHeaderAuthentication)
+            }
+        }
+    }
+}
+
+task clean(type: Delete) {
+    delete rootProject.buildDir
+}

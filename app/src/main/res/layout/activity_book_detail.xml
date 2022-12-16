@@ -1,0 +1,263 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".activities.BookDetailActivity">
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="60dp"
+            android:id="@+id/ivLogoCountry"
+            android:layout_marginTop="10dp"
+            android:src="@drawable/buscalibre_logo_color"/>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/rlQuoteSuccessError"
+            android:visibility="gone"
+            android:gravity="center_horizontal"
+            android:orientation="vertical"
+            android:layout_marginStart="5dp"
+            android:layout_marginEnd="5dp"
+            android:layout_marginTop="40dp"
+            android:layout_below="@+id/ivLogoCountry">
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@drawable/quote_error" />
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:gravity="center_horizontal"
+                android:textSize="16sp"
+                android:text="@string/text102"/>
+        </LinearLayout>
+
+        <RelativeLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/ivLogoCountry"
+            android:id="@+id/rlQuoteSuccess"
+            android:visibility="visible">
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/rlBookHeader"
+                android:layout_marginStart="5dp"
+                android:layout_marginEnd="5dp"
+                android:layout_marginTop="20dp">
+                <ImageView
+                    android:layout_width="120dp"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/ivBookDesc"/>
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginStart="5dp"
+                    android:layout_toEndOf="@+id/ivBookDesc"
+                    android:orientation="vertical">
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="@string/text386"
+                        android:textColor="@color/md_black_1000"
+                        android:textSize="16sp"
+                        android:textStyle="bold" />
+
+                    <TextView
+                        android:id="@+id/tvTitleNameDesc"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:ellipsize="end"
+                        android:maxLength="100"
+                        android:textSize="16sp" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="10dp"
+                        android:text="@string/text387"
+                        android:textColor="@color/md_black_1000"
+                        android:textSize="16sp"
+                        android:textStyle="bold" />
+
+                    <TextView
+                        android:id="@+id/tvBookDesc"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:ellipsize="end"
+                        android:maxLength="50"
+                        android:maxLines="4"
+                        android:textSize="16sp" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="10dp"
+                        android:text="@string/isbn"
+                        android:textColor="@color/md_black_1000"
+                        android:textSize="16sp"
+                        android:textStyle="bold" />
+
+                    <TextView
+                        android:id="@+id/tvIsbnDesc"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:ellipsize="end"
+                        android:maxLines="6"
+                        android:textSize="16sp" />
+
+                </LinearLayout>
+            </RelativeLayout>
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/llQtyCounter"
+                android:layout_centerHorizontal="true"
+                android:layout_marginTop="20dp"
+                android:gravity="center"
+                android:layout_below="@+id/rlBookHeader">
+                <Button
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/btRemoveQty"
+                    android:text="-"/>
+                <TextView
+                    android:layout_width="60dp"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/tvBooksQty"
+                    android:text="1"
+                    android:gravity="center"
+                    android:textSize="20sp"/>
+                <Button
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/btAddQty"
+                    android:text="+"/>
+            </LinearLayout>
+
+            <com.chivorn.smartmaterialspinner.SmartMaterialSpinner
+                android:id="@+id/spinnerCondition"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/llQtyCounter"
+                android:layout_marginStart="20dp"
+                android:layout_marginTop="10dp"
+                android:layout_marginEnd="20dp"
+                app:smsp_hint="@string/book_condition"
+                android:visibility="gone"
+                app:smsp_hintColor="@color/md_black_1000"
+                app:smsp_itemColor="@color/md_black_1000"
+                app:smsp_itemListColor="@color/md_black_1000"
+                app:smsp_itemListHintBackgroundColor="#808080"
+                app:smsp_itemListHintColor="#FFFFFF"
+                app:smsp_multilineError="false"
+                app:smsp_selectedItemListColor="#FF5252" />
+
+            <TextView
+                android:id="@+id/tvBookStateNote"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/llQtyCounter"
+                android:layout_centerHorizontal="true"
+                android:layout_marginStart="20dp"
+                android:layout_marginTop="10dp"
+                android:layout_marginEnd="20dp"
+                android:background="@drawable/texview_border"
+                android:gravity="center_horizontal"
+                android:padding="10dp"
+                android:text="@string/note_book_state"
+                android:textColor="@color/md_black_1000"
+                android:textSize="18sp" />
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/llPriceBook"
+                android:layout_marginTop="10dp"
+                android:layout_centerHorizontal="true"
+                android:layout_below="@+id/tvBookStateNote">
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textSize="18sp"
+                    android:textStyle="bold"
+                    android:textColor="@color/md_black_1000"
+                    android:layout_marginEnd="5dp"
+                    android:text="@string/text389"/>
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/tvPriceBook"
+                    android:textSize="18sp"
+                    android:layout_marginStart="5dp"/>
+            </LinearLayout>
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/llPriceBookQuote"
+                android:orientation="vertical"
+                android:gravity="center_horizontal"
+                android:layout_below="@+id/llPriceBook"
+                android:layout_marginTop="30dp"
+                android:layout_centerHorizontal="true">
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_horizontal"
+                    android:text="@string/condition"/>
+                <LinearLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content">
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:id="@+id/tvBookState"
+                        android:text="@string/usedmay"/>
+                    <Switch
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:id="@+id/swBookCondition"
+                        android:checked="true"
+                        android:visibility="gone"/>
+                </LinearLayout>
+            </LinearLayout>
+        </RelativeLayout>
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/btSaveProduct"
+            android:layout_centerHorizontal="true"
+            android:layout_alignParentBottom="true"
+            android:layout_marginBottom="20dp"
+            android:visibility="gone"
+            android:layout_marginStart="20dp"
+            android:layout_marginEnd="20dp"
+            android:textColor="@color/md_white_1000"
+            android:background="@drawable/orange_button_selector"
+            android:text="@string/text66"/>
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/btErrorBack"
+            android:visibility="gone"
+            android:layout_centerHorizontal="true"
+            android:layout_alignParentBottom="true"
+            android:layout_marginBottom="20dp"
+            android:layout_marginStart="20dp"
+            android:layout_marginEnd="20dp"
+            android:textColor="@color/md_white_1000"
+            android:background="@drawable/orange_button_selector"
+            android:text="@string/text103"/>
+    </RelativeLayout>
+
+</ScrollView>

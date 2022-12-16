@@ -1,0 +1,26 @@
+<component name="libraryTable">
+  <library name="Gradle: com.facebook.react:react-native-screens:2.2.0-bibooks-7869354@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/971d08bfa8cde9bc43f7603ddcd5040d/jetified-react-native-screens-2.2.0-bibooks-7869354/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/b26eedd92b7927f23197ae5da88b658c/jetified-react-native-screens-2.2.0-bibooks-7869354/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/50e5baddd4ad7284910516ee7a7d1cc8/react-native-screens-2.2.0-bibooks-7869354/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/1b18c2bcdffc8ef8f0cd6138f76c2b79/react-native-screens-2.2.0-bibooks-7869354/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/86cc6d7cd21ac78c129517dff35424c5/react-native-screens-2.2.0-bibooks-7869354/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/6f08451951a92a3d715da255f9fa3770/react-native-screens-2.2.0-bibooks-7869354/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/c1b38da54550ff0e0dfd72e344613075/react-native-screens-2.2.0-bibooks-7869354/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/6f08451951a92a3d715da255f9fa3770/react-native-screens-2.2.0-bibooks-7869354/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/6f08451951a92a3d715da255f9fa3770/react-native-screens-2.2.0-bibooks-7869354/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/a327b41c6360b8c21320b30c855b3d4f/react-native-screens-2.2.0-bibooks-7869354/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/6532424992794ce3b59fe3ed792aa112/react-native-screens-2.2.0-bibooks-7869354/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/976ed041a0c9e0ccb5a05515baad597d/transformed/jetified-react-native-screens-2.2.0-bibooks-7869354/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/1cb02673a964c04fd8a882319841d31a/transformed/jetified-react-native-screens-2.2.0-bibooks-7869354/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/c2833ebf099bd87cfa1a3a2a72c86028/transformed/jetified-react-native-screens-2.2.0-bibooks-7869354/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/ed54813764d86ba0c5e8a7e6bd0c67e4/transformed/jetified-react-native-screens-2.2.0-bibooks-7869354/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/ed54813764d86ba0c5e8a7e6bd0c67e4/transformed/jetified-react-native-screens-2.2.0-bibooks-7869354/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.facebook.react/react-native-screens/2.2.0-bibooks-7869354/9881226046c5eaca50b4d5f18b750501212e6c89/react-native-screens-2.2.0-bibooks-7869354-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

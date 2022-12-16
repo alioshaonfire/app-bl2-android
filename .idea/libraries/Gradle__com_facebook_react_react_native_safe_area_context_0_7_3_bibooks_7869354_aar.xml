@@ -1,0 +1,26 @@
+<component name="libraryTable">
+  <library name="Gradle: com.facebook.react:react-native-safe-area-context:0.7.3-bibooks-7869354@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/14f15fcd6a66b91a495abc6731446d5c/jetified-react-native-safe-area-context-0.7.3-bibooks-7869354/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/f209e0b095cba8063c268395c1b0c060/jetified-react-native-safe-area-context-0.7.3-bibooks-7869354/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/cba814b427d92365d20ac18b0186ece6/react-native-safe-area-context-0.7.3-bibooks-7869354/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/642eba6b686a84d06126dd6f61f27e45/react-native-safe-area-context-0.7.3-bibooks-7869354/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/8cb9e02ecb6e884d960a1fa0684ad885/react-native-safe-area-context-0.7.3-bibooks-7869354/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/384443c1eb6604415426837ecceb849e/react-native-safe-area-context-0.7.3-bibooks-7869354/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/409440225f78c1e9309adbc197b14ce9/react-native-safe-area-context-0.7.3-bibooks-7869354/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/384443c1eb6604415426837ecceb849e/react-native-safe-area-context-0.7.3-bibooks-7869354/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/384443c1eb6604415426837ecceb849e/react-native-safe-area-context-0.7.3-bibooks-7869354/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/4444d77d0744fa73b375a8ef37c99bf4/react-native-safe-area-context-0.7.3-bibooks-7869354/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/d48e07905f4e2524caae70f12ed42a2b/react-native-safe-area-context-0.7.3-bibooks-7869354/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/3dfa01e5af57e6717a5949c35dbbb534/transformed/jetified-react-native-safe-area-context-0.7.3-bibooks-7869354/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/63cf903153e7c77aa02783e9a78585cd/transformed/jetified-react-native-safe-area-context-0.7.3-bibooks-7869354/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/420b267ed74f9726cca04c8ca427c6ca/transformed/jetified-react-native-safe-area-context-0.7.3-bibooks-7869354/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/1c2c052f6db4b01cda770f3b85ed2057/transformed/jetified-react-native-safe-area-context-0.7.3-bibooks-7869354/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/1c2c052f6db4b01cda770f3b85ed2057/transformed/jetified-react-native-safe-area-context-0.7.3-bibooks-7869354/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.facebook.react/react-native-safe-area-context/0.7.3-bibooks-7869354/a8cad10d9f576e541024b1ebc4a8462d30b26f19/react-native-safe-area-context-0.7.3-bibooks-7869354-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

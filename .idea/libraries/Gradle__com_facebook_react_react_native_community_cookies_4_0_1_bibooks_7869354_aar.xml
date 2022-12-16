@@ -1,0 +1,26 @@
+<component name="libraryTable">
+  <library name="Gradle: com.facebook.react:react-native-community_cookies:4.0.1-bibooks-7869354@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/2243672c8b062576cd73d99b512c1e6e/jetified-react-native-community_cookies-4.0.1-bibooks-7869354/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/0886abeacb113086dbe1679c79b130d6/jetified-react-native-community_cookies-4.0.1-bibooks-7869354/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/b5160042b7d05c48ea4bfc14e5048ed5/react-native-community_cookies-4.0.1-bibooks-7869354/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/2148b32ac97a32e7d2f868969863067b/react-native-community_cookies-4.0.1-bibooks-7869354/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/b56343d5d334d7a5c7bcee9b34cf4103/react-native-community_cookies-4.0.1-bibooks-7869354/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/6d201696f7268d9d67cc336224ce1c7c/react-native-community_cookies-4.0.1-bibooks-7869354/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/09aab09c2e2bd1612c9c83abf1e3fcb8/react-native-community_cookies-4.0.1-bibooks-7869354/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/6d201696f7268d9d67cc336224ce1c7c/react-native-community_cookies-4.0.1-bibooks-7869354/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/6d201696f7268d9d67cc336224ce1c7c/react-native-community_cookies-4.0.1-bibooks-7869354/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/7bee2a71f26ffb1fd3bb8ad59561c1f0/react-native-community_cookies-4.0.1-bibooks-7869354/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/cd7057b5949265a1c30a3c068e528763/react-native-community_cookies-4.0.1-bibooks-7869354/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/a085ab16f2d4896c8a04aea2db3536da/transformed/jetified-react-native-community_cookies-4.0.1-bibooks-7869354/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/1b68109b78c3e60d7cd17536a94f8d89/transformed/jetified-react-native-community_cookies-4.0.1-bibooks-7869354/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/4705c050f3082f04847a0fe2a5d3d53b/transformed/jetified-react-native-community_cookies-4.0.1-bibooks-7869354/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/ea35dab7a9d74f4b26b9d9e279568c49/transformed/jetified-react-native-community_cookies-4.0.1-bibooks-7869354/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/ea35dab7a9d74f4b26b9d9e279568c49/transformed/jetified-react-native-community_cookies-4.0.1-bibooks-7869354/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.facebook.react/react-native-community_cookies/4.0.1-bibooks-7869354/b59bfbfee0a3dca9f73efef891de0b2501723c0f/react-native-community_cookies-4.0.1-bibooks-7869354-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

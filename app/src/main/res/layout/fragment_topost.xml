@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".fragments.ToPostFragment">
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        <androidx.swiperefreshlayout.widget.SwipeRefreshLayout
+            android:id="@+id/srlProductToPostList"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            tools:ignore="MergeRootFrame">
+            <androidx.recyclerview.widget.RecyclerView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/rvToPostBooks"/>
+        </androidx.swiperefreshlayout.widget.SwipeRefreshLayout>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/tvNoElements"
+            android:visibility="gone"
+            android:layout_centerInParent="true"
+            android:gravity="center"
+            android:text="@string/no_hay_elementos_en_la_lista"
+            android:textStyle="bold"
+            android:textSize="18sp"/>
+    </RelativeLayout>
+
+</FrameLayout>

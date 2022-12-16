@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".activities.OrderDetailActivity">
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="60dp"
+        android:id="@+id/ivLogoCountry"
+        android:layout_marginTop="10dp"
+        android:src="@drawable/buscalibre_logo_color"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/tvOrderNum"
+        android:textSize="18sp"
+        android:textStyle="bold"
+        android:textColor="@color/md_black_1000"
+        android:layout_marginStart="10dp"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="10dp"
+        android:layout_below="@+id/ivLogoCountry"/>
+    <androidx.recyclerview.widget.RecyclerView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/rvOrderDetailList"
+        android:layout_marginStart="10dp"
+        android:layout_marginEnd="10dp"
+        android:layout_below="@+id/tvOrderNum"
+        android:layout_marginTop="10dp"/>
+</RelativeLayout>

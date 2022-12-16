@@ -1,0 +1,898 @@
+[
+  {
+    "eventType": "VIEW_TEXT_CHANGED",
+    "timestamp": 1610569484139,
+    "replacementText": "alvarovalenzuelac@gmail.com",
+    "actionCode": -1,
+    "delayTime": 0,
+    "canScrollTo": true,
+    "elementDescriptors": [
+      {
+        "className": "androidx.appcompat.widget.AppCompatEditText",
+        "recyclerViewChildPosition": -1,
+        "adapterViewChildPosition": -1,
+        "groupViewChildPosition": 0,
+        "resourceId": "com.buscalibre.app2:id/etEmail",
+        "contentDescription": "",
+        "text": ""
+      },
+      {
+        "className": "android.widget.FrameLayout",
+        "recyclerViewChildPosition": -1,
+        "adapterViewChildPosition": -1,
+        "groupViewChildPosition": 0,
+        "resourceId": "",
+        "contentDescription": "",
+        "text": ""
+      },
+      {
+        "className": "com.google.android.material.textfield.TextInputLayout",
+        "recyclerViewChildPosition": -1,
+        "adapterViewChildPosition": -1,
+        "groupViewChildPosition": 1,
+        "resourceId": "com.buscalibre.app2:id/tilEmail",
+        "contentDescription": "",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "eventType": "VIEW_CLICKED",
+    "timestamp": 1610569497711,
+    "replacementText": "Continuar",
+    "actionCode": -1,
+    "delayTime": 0,
+    "canScrollTo": true,
+    "elementDescriptors": [
+      {
+        "className": "androidx.appcompat.widget.AppCompatButton",
+        "recyclerViewChildPosition": -1,
+        "adapterViewChildPosition": -1,
+        "groupViewChildPosition": 2,
+        "resourceId": "com.buscalibre.app2:id/btLogin",
+        "contentDescription": "",
+        "text": "Continuar"
+      },
+      {
+        "className": "android.widget.LinearLayout",
+        "recyclerViewChildPosition": -1,
+        "adapterViewChildPosition": -1,
+        "groupViewChildPosition": 0,
+        "resourceId": "com.buscalibre.app2:id/llLoginInputs",
+        "contentDescription": "",
+        "text": ""
+      },
+      {
+        "className": "android.widget.ScrollView",
+        "recyclerViewChildPosition": -1,
+        "adapterViewChildPosition": -1,
+        "groupViewChildPosition": 0,
+        "resourceId": "",
+        "contentDescription": "",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "eventType": "VIEW_CLICKED",
+    "timestamp": 1610569504155,
+    "replacementText": "",
+    "actionCode": -1,
+    "delayTime": 0,
+    "canScrollTo": true,
+    "elementDescriptors": [
+      {
+        "className": "androidx.appcompat.widget.AppCompatEditText",
+        "recyclerViewChildPosition": -1,
+        "adapterViewChildPosition": -1,
+        "groupViewChildPosition": 0,
+        "resourceId": "com.buscalibre.app2:id/etPassword",
+        "contentDescription": "",
+        "text": ""
+      },
+      {
+        "className": "android.widget.FrameLayout",
+        "recyclerViewChildPosition": -1,
+        "adapterViewChildPosition": -1,
+        "groupViewChildPosition": 0,
+        "resourceId": "",
+        "contentDescription": "",
+        "text": ""
+      },
+      {
+        "className": "com.google.android.material.textfield.TextInputLayout",
+        "recyclerViewChildPosition": -1,
+        "adapterViewChildPosition": -1,
+        "groupViewChildPosition": 3,
+        "resourceId": "com.buscalibre.app2:id/tilPassword",
+        "contentDescription": "",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "eventType": "VIEW_TEXT_CHANGED",
+    "timestamp": 1610569505397,
+    "replacementText": "123456",
+    "actionCode": -1,
+    "delayTime": 0,
+    "canScrollTo": true,
+    "elementDescriptors": [
+      {
+        "className": "androidx.appcompat.widget.AppCompatEditText",
+        "recyclerViewChildPosition": -1,
+        "adapterViewChildPosition": -1,
+        "groupViewChildPosition": 0,
+        "resourceId": "com.buscalibre.app2:id/etPassword",
+        "contentDescription": "",
+        "text": ""
+      },
+      {
+        "className": "android.widget.FrameLayout",
+        "recyclerViewChildPosition": -1,
+        "adapterViewChildPosition": -1,
+        "groupViewChildPosition": 0,
+        "resourceId": "",
+        "contentDescription": "",
+        "text": ""
+      },
+      {
+        "className": "com.google.android.material.textfield.TextInputLayout",
+        "recyclerViewChildPosition": -1,
+        "adapterViewChildPosition": -1,
+        "groupViewChildPosition": 3,
+        "resourceId": "com.buscalibre.app2:id/tilPassword",
+        "contentDescription": "",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "eventType": "VIEW_CLICKED",
+    "timestamp": 1610569517531,
+    "replacementText": "Confirmar",
+    "actionCode": -1,
+    "delayTime": 0,
+    "canScrollTo": true,
+    "elementDescriptors": [
+      {
+        "className": "androidx.appcompat.widget.AppCompatButton",
+        "recyclerViewChildPosition": -1,
+        "adapterViewChildPosition": -1,
+        "groupViewChildPosition": 4,
+        "resourceId": "com.buscalibre.app2:id/btConfirmPassword",
+        "contentDescription": "",
+        "text": "Confirmar"
+      },
+      {
+        "className": "android.widget.RelativeLayout",
+        "recyclerViewChildPosition": -1,
+        "adapterViewChildPosition": -1,
+        "groupViewChildPosition": 0,
+        "resourceId": "",
+        "contentDescription": "",
+        "text": ""
+      },
+      {
+        "className": "android.widget.ScrollView",
+        "recyclerViewChildPosition": -1,
+        "adapterViewChildPosition": -1,
+        "groupViewChildPosition": 1,
+        "resourceId": "",
+        "contentDescription": "",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "eventType": "VIEW_CLICKED",
+    "timestamp": 1610569523233,
+    "replacementText": "",
+    "actionCode": -1,
+    "delayTime": 0,
+    "canScrollTo": false,
+    "elementDescriptors": [
+      {
+        "className": "android.widget.RelativeLayout",
+        "recyclerViewChildPosition": 1,
+        "adapterViewChildPosition": -1,
+        "groupViewChildPosition": -1,
+        "resourceId": "com.buscalibre.app2:id/rlRowCountry",
+        "contentDescription": "",
+        "text": ""
+      },
+      {
+        "className": "androidx.recyclerview.widget.RecyclerView",
+        "recyclerViewChildPosition": -1,
+        "adapterViewChildPosition": -1,
+        "groupViewChildPosition": 0,
+        "resourceId": "com.buscalibre.app2:id/rvCountries",
+        "contentDescription": "",
+        "text": ""
+      },
+      {
+        "className": "androidx.swiperefreshlayout.widget.SwipeRefreshLayout",
+        "recyclerViewChildPosition": -1,
+        "adapterViewChildPosition": -1,
+        "groupViewChildPosition": 1,
+        "resourceId": "com.buscalibre.app2:id/srlCountryList",
+        "contentDescription": "",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "eventType": "VIEW_CLICKED",
+    "timestamp": 1610569525807,
+    "replacementText": "Continuar",
+    "actionCode": -1,
+    "delayTime": 0,
+    "canScrollTo": false,
+    "elementDescriptors": [
+      {
+        "className": "androidx.appcompat.widget.AppCompatButton",
+        "recyclerViewChildPosition": -1,
+        "adapterViewChildPosition": -1,
+        "groupViewChildPosition": 2,
+        "resourceId": "com.buscalibre.app2:id/btConfirmCountry",
+        "contentDescription": "",
+        "text": "Continuar"
+      },
+      {
+        "className": "android.widget.RelativeLayout",
+        "recyclerViewChildPosition": -1,
+        "adapterViewChildPosition": -1,
+        "groupViewChildPosition": 1,
+        "resourceId": "",
+        "contentDescription": "",
+        "text": ""
+      },
+      {
+        "className": "android.widget.FrameLayout",
+        "recyclerViewChildPosition": -1,
+        "adapterViewChildPosition": -1,
+        "groupViewChildPosition": 1,
+        "resourceId": "com.buscalibre.app2:id/layout_container",
+        "contentDescription": "",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "eventType": "VIEW_CLICKED",
+    "timestamp": 1610569556072,
+    "replacementText": "",
+    "actionCode": -1,
+    "delayTime": 0,
+    "canScrollTo": false,
+    "elementDescriptors": [
+      {
+        "className": "androidx.appcompat.widget.AppCompatImageView",
+        "recyclerViewChildPosition": -1,
+        "adapterViewChildPosition": -1,
+        "groupViewChildPosition": 0,
+        "resourceId": "com.buscalibre.app2:id/ivMenuIcon",
+        "contentDescription": "",
+        "text": ""
+      },
+      {
+        "className": "android.widget.RelativeLayout",
+        "recyclerViewChildPosition": -1,
+        "adapterViewChildPosition": -1,
+        "groupViewChildPosition": 1,
+        "resourceId": "",
+        "contentDescription": "",
+        "text": ""
+      },
+      {
+        "className": "androidx.recyclerview.widget.RecyclerView",
+        "recyclerViewChildPosition": -1,
+        "adapterViewChildPosition": -1,
+        "groupViewChildPosition": 0,
+        "resourceId": "com.buscalibre.app2:id/rvMainMenu",
+        "contentDescription": "",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "eventType": "VIEW_CLICKED",
+    "timestamp": 1610569558183,
+    "replacementText": "Buscar",
+    "actionCode": -1,
+    "delayTime": 0,
+    "canScrollTo": false,
+    "elementDescriptors": [
+      {
+        "className": "androidx.appcompat.widget.AppCompatButton",
+        "recyclerViewChildPosition": -1,
+        "adapterViewChildPosition": -1,
+        "groupViewChildPosition": 2,
+        "resourceId": "com.buscalibre.app2:id/btSearchKeyword",
+        "contentDescription": "",
+        "text": "Buscar"
+      },
+      {
+        "className": "android.widget.LinearLayout",
+        "recyclerViewChildPosition": -1,
+        "adapterViewChildPosition": -1,
+        "groupViewChildPosition": 1,
+        "resourceId": "",
+        "contentDescription": "",
+        "text": ""
+      },
+      {
+        "className": "android.widget.RelativeLayout",
+        "recyclerViewChildPosition": -1,
+        "adapterViewChildPosition": -1,
+        "groupViewChildPosition": 1,
+        "resourceId": "",
+        "contentDescription": "",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "eventType": "VIEW_TEXT_CHANGED",
+    "timestamp": 1610569559947,
+    "replacementText": "usjdjd",
+    "actionCode": -1,
+    "delayTime": 0,
+    "canScrollTo": false,
+    "elementDescriptors": [
+      {
+        "className": "androidx.appcompat.widget.AppCompatEditText",
+        "recyclerViewChildPosition": -1,
+        "adapterViewChildPosition": -1,
+        "groupViewChildPosition": 0,
+        "resourceId": "com.buscalibre.app2:id/etKeySearch",
+        "contentDescription": "",
+        "text": ""
+      },
+      {
+        "className": "android.widget.FrameLayout",
+        "recyclerViewChildPosition": -1,
+        "adapterViewChildPosition": -1,
+        "groupViewChildPosition": 0,
+        "resourceId": "",
+        "contentDescription": "",
+        "text": ""
+      },
+      {
+        "className": "com.google.android.material.textfield.TextInputLayout",
+        "recyclerViewChildPosition": -1,
+        "adapterViewChildPosition": -1,
+        "groupViewChildPosition": 1,
+        "resourceId": "com.buscalibre.app2:id/tilKeySearch",
+        "contentDescription": "",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "eventType": "VIEW_CLICKED",
+    "timestamp": 1610569567112,
+    "replacementText": "ACEPTAR",
+    "actionCode": -1,
+    "delayTime": 0,
+    "canScrollTo": true,
+    "elementDescriptors": [
+      {
+        "className": "androidx.appcompat.widget.AppCompatButton",
+        "recyclerViewChildPosition": -1,
+        "adapterViewChildPosition": -1,
+        "groupViewChildPosition": 3,
+        "resourceId": "android:id/button1",
+        "contentDescription": "",
+        "text": "ACEPTAR"
+      },
+      {
+        "className": "com.android.internal.widget.ButtonBarLayout",
+        "recyclerViewChildPosition": -1,
+        "adapterViewChildPosition": -1,
+        "groupViewChildPosition": 0,
+        "resourceId": "",
+        "contentDescription": "",
+        "text": ""
+      },
+      {
+        "className": "android.widget.ScrollView",
+        "recyclerViewChildPosition": -1,
+        "adapterViewChildPosition": -1,
+        "groupViewChildPosition": 3,
+        "resourceId": "android:id/buttonPanel",
+        "contentDescription": "",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "eventType": "VIEW_CLICKED",
+    "timestamp": 1610569568188,
+    "replacementText": "ACEPTAR",
+    "actionCode": -1,
+    "delayTime": 0,
+    "canScrollTo": true,
+    "elementDescriptors": [
+      {
+        "className": "androidx.appcompat.widget.AppCompatButton",
+        "recyclerViewChildPosition": -1,
+        "adapterViewChildPosition": -1,
+        "groupViewChildPosition": 3,
+        "resourceId": "android:id/button1",
+        "contentDescription": "",
+        "text": "ACEPTAR"
+      },
+      {
+        "className": "com.android.internal.widget.ButtonBarLayout",
+        "recyclerViewChildPosition": -1,
+        "adapterViewChildPosition": -1,
+        "groupViewChildPosition": 0,
+        "resourceId": "",
+        "contentDescription": "",
+        "text": ""
+      },
+      {
+        "className": "android.widget.ScrollView",
+        "recyclerViewChildPosition": -1,
+        "adapterViewChildPosition": -1,
+        "groupViewChildPosition": 3,
+        "resourceId": "android:id/buttonPanel",
+        "contentDescription": "",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "eventType": "VIEW_CLICKED",
+    "timestamp": 1610569568933,
+    "replacementText": "ACEPTAR",
+    "actionCode": -1,
+    "delayTime": 0,
+    "canScrollTo": true,
+    "elementDescriptors": [
+      {
+        "className": "androidx.appcompat.widget.AppCompatButton",
+        "recyclerViewChildPosition": -1,
+        "adapterViewChildPosition": -1,
+        "groupViewChildPosition": 3,
+        "resourceId": "android:id/button1",
+        "contentDescription": "",
+        "text": "ACEPTAR"
+      },
+      {
+        "className": "com.android.internal.widget.ButtonBarLayout",
+        "recyclerViewChildPosition": -1,
+        "adapterViewChildPosition": -1,
+        "groupViewChildPosition": 0,
+        "resourceId": "",
+        "contentDescription": "",
+        "text": ""
+      },
+      {
+        "className": "android.widget.ScrollView",
+        "recyclerViewChildPosition": -1,
+        "adapterViewChildPosition": -1,
+        "groupViewChildPosition": 3,
+        "resourceId": "android:id/buttonPanel",
+        "contentDescription": "",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "eventType": "VIEW_CLICKED",
+    "timestamp": 1610569569891,
+    "replacementText": "ACEPTAR",
+    "actionCode": -1,
+    "delayTime": 0,
+    "canScrollTo": true,
+    "elementDescriptors": [
+      {
+        "className": "androidx.appcompat.widget.AppCompatButton",
+        "recyclerViewChildPosition": -1,
+        "adapterViewChildPosition": -1,
+        "groupViewChildPosition": 3,
+        "resourceId": "android:id/button1",
+        "contentDescription": "",
+        "text": "ACEPTAR"
+      },
+      {
+        "className": "com.android.internal.widget.ButtonBarLayout",
+        "recyclerViewChildPosition": -1,
+        "adapterViewChildPosition": -1,
+        "groupViewChildPosition": 0,
+        "resourceId": "",
+        "contentDescription": "",
+        "text": ""
+      },
+      {
+        "className": "android.widget.ScrollView",
+        "recyclerViewChildPosition": -1,
+        "adapterViewChildPosition": -1,
+        "groupViewChildPosition": 3,
+        "resourceId": "android:id/buttonPanel",
+        "contentDescription": "",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "eventType": "VIEW_CLICKED",
+    "timestamp": 1610569571946,
+    "replacementText": "Buscar",
+    "actionCode": -1,
+    "delayTime": 0,
+    "canScrollTo": false,
+    "elementDescriptors": [
+      {
+        "className": "androidx.appcompat.widget.AppCompatButton",
+        "recyclerViewChildPosition": -1,
+        "adapterViewChildPosition": -1,
+        "groupViewChildPosition": 2,
+        "resourceId": "com.buscalibre.app2:id/btSearchKeyword",
+        "contentDescription": "",
+        "text": "Buscar"
+      },
+      {
+        "className": "android.widget.LinearLayout",
+        "recyclerViewChildPosition": -1,
+        "adapterViewChildPosition": -1,
+        "groupViewChildPosition": 1,
+        "resourceId": "",
+        "contentDescription": "",
+        "text": ""
+      },
+      {
+        "className": "android.widget.RelativeLayout",
+        "recyclerViewChildPosition": -1,
+        "adapterViewChildPosition": -1,
+        "groupViewChildPosition": 1,
+        "resourceId": "",
+        "contentDescription": "",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "eventType": "VIEW_CLICKED",
+    "timestamp": 1610569586824,
+    "replacementText": "",
+    "actionCode": -1,
+    "delayTime": 0,
+    "canScrollTo": false,
+    "elementDescriptors": [
+      {
+        "className": "androidx.appcompat.widget.AppCompatImageView",
+        "recyclerViewChildPosition": -1,
+        "adapterViewChildPosition": -1,
+        "groupViewChildPosition": 1,
+        "resourceId": "com.buscalibre.app2:id/ivCloseButton",
+        "contentDescription": "",
+        "text": ""
+      },
+      {
+        "className": "android.widget.LinearLayout",
+        "recyclerViewChildPosition": -1,
+        "adapterViewChildPosition": -1,
+        "groupViewChildPosition": 4,
+        "resourceId": "",
+        "contentDescription": "",
+        "text": ""
+      },
+      {
+        "className": "android.widget.RelativeLayout",
+        "recyclerViewChildPosition": -1,
+        "adapterViewChildPosition": -1,
+        "groupViewChildPosition": 0,
+        "resourceId": "",
+        "contentDescription": "",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "eventType": "VIEW_CLICKED",
+    "timestamp": 1610569589893,
+    "replacementText": "",
+    "actionCode": -1,
+    "delayTime": 0,
+    "canScrollTo": false,
+    "elementDescriptors": [
+      {
+        "className": "androidx.appcompat.widget.AppCompatImageView",
+        "recyclerViewChildPosition": -1,
+        "adapterViewChildPosition": -1,
+        "groupViewChildPosition": 0,
+        "resourceId": "com.buscalibre.app2:id/ivBackButton",
+        "contentDescription": "",
+        "text": ""
+      },
+      {
+        "className": "android.widget.RelativeLayout",
+        "recyclerViewChildPosition": -1,
+        "adapterViewChildPosition": -1,
+        "groupViewChildPosition": 0,
+        "resourceId": "",
+        "contentDescription": "",
+        "text": ""
+      },
+      {
+        "className": "androidx.appcompat.widget.Toolbar",
+        "recyclerViewChildPosition": -1,
+        "adapterViewChildPosition": -1,
+        "groupViewChildPosition": 0,
+        "resourceId": "com.buscalibre.app2:id/baseToolbar",
+        "contentDescription": "",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "eventType": "VIEW_CLICKED",
+    "timestamp": 1610569594080,
+    "replacementText": "",
+    "actionCode": -1,
+    "delayTime": 0,
+    "canScrollTo": false,
+    "elementDescriptors": [
+      {
+        "className": "androidx.appcompat.widget.AppCompatImageButton",
+        "recyclerViewChildPosition": -1,
+        "adapterViewChildPosition": -1,
+        "groupViewChildPosition": 2,
+        "resourceId": "",
+        "contentDescription": "Open",
+        "text": ""
+      },
+      {
+        "className": "androidx.appcompat.widget.Toolbar",
+        "recyclerViewChildPosition": -1,
+        "adapterViewChildPosition": -1,
+        "groupViewChildPosition": 1,
+        "resourceId": "com.buscalibre.app2:id/baseToolbar",
+        "contentDescription": "",
+        "text": ""
+      },
+      {
+        "className": "android.widget.RelativeLayout",
+        "recyclerViewChildPosition": -1,
+        "adapterViewChildPosition": -1,
+        "groupViewChildPosition": 0,
+        "resourceId": "",
+        "contentDescription": "",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "eventType": "VIEW_CLICKED",
+    "timestamp": 1610569596099,
+    "replacementText": "",
+    "actionCode": -1,
+    "delayTime": 0,
+    "canScrollTo": false,
+    "elementDescriptors": [
+      {
+        "className": "androidx.constraintlayout.widget.ConstraintLayout",
+        "recyclerViewChildPosition": 2,
+        "adapterViewChildPosition": -1,
+        "groupViewChildPosition": -1,
+        "resourceId": "",
+        "contentDescription": "",
+        "text": ""
+      },
+      {
+        "className": "androidx.recyclerview.widget.RecyclerView",
+        "recyclerViewChildPosition": -1,
+        "adapterViewChildPosition": -1,
+        "groupViewChildPosition": 1,
+        "resourceId": "com.buscalibre.app2:id/material_drawer_recycler_view",
+        "contentDescription": "",
+        "text": ""
+      },
+      {
+        "className": "com.mikepenz.materialize.view.ScrimInsetsRelativeLayout",
+        "recyclerViewChildPosition": -1,
+        "adapterViewChildPosition": -1,
+        "groupViewChildPosition": 1,
+        "resourceId": "com.buscalibre.app2:id/material_drawer_slider_layout",
+        "contentDescription": "",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "eventType": "PRESSED_BACK",
+    "timestamp": 1610569601024,
+    "actionCode": -1,
+    "delayTime": 0,
+    "canScrollTo": false,
+    "elementDescriptors": []
+  },
+  {
+    "eventType": "VIEW_CLICKED",
+    "timestamp": 1610569604129,
+    "replacementText": "",
+    "actionCode": -1,
+    "delayTime": 0,
+    "canScrollTo": false,
+    "elementDescriptors": [
+      {
+        "className": "androidx.constraintlayout.widget.ConstraintLayout",
+        "recyclerViewChildPosition": 5,
+        "adapterViewChildPosition": -1,
+        "groupViewChildPosition": -1,
+        "resourceId": "",
+        "contentDescription": "",
+        "text": ""
+      },
+      {
+        "className": "androidx.recyclerview.widget.RecyclerView",
+        "recyclerViewChildPosition": -1,
+        "adapterViewChildPosition": -1,
+        "groupViewChildPosition": 1,
+        "resourceId": "com.buscalibre.app2:id/material_drawer_recycler_view",
+        "contentDescription": "",
+        "text": ""
+      },
+      {
+        "className": "com.mikepenz.materialize.view.ScrimInsetsRelativeLayout",
+        "recyclerViewChildPosition": -1,
+        "adapterViewChildPosition": -1,
+        "groupViewChildPosition": 1,
+        "resourceId": "com.buscalibre.app2:id/material_drawer_slider_layout",
+        "contentDescription": "",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "eventType": "VIEW_CLICKED",
+    "timestamp": 1610569607062,
+    "replacementText": "",
+    "actionCode": -1,
+    "delayTime": 0,
+    "canScrollTo": false,
+    "elementDescriptors": [
+      {
+        "className": "android.widget.RelativeLayout",
+        "recyclerViewChildPosition": 1,
+        "adapterViewChildPosition": -1,
+        "groupViewChildPosition": -1,
+        "resourceId": "com.buscalibre.app2:id/rlRowCountry",
+        "contentDescription": "",
+        "text": ""
+      },
+      {
+        "className": "androidx.recyclerview.widget.RecyclerView",
+        "recyclerViewChildPosition": -1,
+        "adapterViewChildPosition": -1,
+        "groupViewChildPosition": 0,
+        "resourceId": "com.buscalibre.app2:id/rvCountries",
+        "contentDescription": "",
+        "text": ""
+      },
+      {
+        "className": "androidx.swiperefreshlayout.widget.SwipeRefreshLayout",
+        "recyclerViewChildPosition": -1,
+        "adapterViewChildPosition": -1,
+        "groupViewChildPosition": 1,
+        "resourceId": "com.buscalibre.app2:id/srlCountryList",
+        "contentDescription": "",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "eventType": "VIEW_CLICKED",
+    "timestamp": 1610569609172,
+    "replacementText": "Continuar",
+    "actionCode": -1,
+    "delayTime": 0,
+    "canScrollTo": false,
+    "elementDescriptors": [
+      {
+        "className": "androidx.appcompat.widget.AppCompatButton",
+        "recyclerViewChildPosition": -1,
+        "adapterViewChildPosition": -1,
+        "groupViewChildPosition": 2,
+        "resourceId": "com.buscalibre.app2:id/btConfirmCountry",
+        "contentDescription": "",
+        "text": "Continuar"
+      },
+      {
+        "className": "android.widget.RelativeLayout",
+        "recyclerViewChildPosition": -1,
+        "adapterViewChildPosition": -1,
+        "groupViewChildPosition": 1,
+        "resourceId": "",
+        "contentDescription": "",
+        "text": ""
+      },
+      {
+        "className": "android.widget.FrameLayout",
+        "recyclerViewChildPosition": -1,
+        "adapterViewChildPosition": -1,
+        "groupViewChildPosition": 1,
+        "resourceId": "com.buscalibre.app2:id/layout_container",
+        "contentDescription": "",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "eventType": "VIEW_CLICKED",
+    "timestamp": 1610569616527,
+    "replacementText": "",
+    "actionCode": -1,
+    "delayTime": 0,
+    "canScrollTo": false,
+    "elementDescriptors": [
+      {
+        "className": "androidx.appcompat.widget.AppCompatImageView",
+        "recyclerViewChildPosition": -1,
+        "adapterViewChildPosition": -1,
+        "groupViewChildPosition": 0,
+        "resourceId": "com.buscalibre.app2:id/ivMenuIcon",
+        "contentDescription": "",
+        "text": ""
+      },
+      {
+        "className": "android.widget.RelativeLayout",
+        "recyclerViewChildPosition": -1,
+        "adapterViewChildPosition": -1,
+        "groupViewChildPosition": 5,
+        "resourceId": "",
+        "contentDescription": "",
+        "text": ""
+      },
+      {
+        "className": "androidx.recyclerview.widget.RecyclerView",
+        "recyclerViewChildPosition": -1,
+        "adapterViewChildPosition": -1,
+        "groupViewChildPosition": 0,
+        "resourceId": "com.buscalibre.app2:id/rvMainMenu",
+        "contentDescription": "",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "eventType": "VIEW_CLICKED",
+    "timestamp": 1610569620637,
+    "replacementText": "",
+    "actionCode": -1,
+    "delayTime": 0,
+    "canScrollTo": false,
+    "elementDescriptors": [
+      {
+        "className": "android.widget.RelativeLayout",
+        "recyclerViewChildPosition": 2,
+        "adapterViewChildPosition": -1,
+        "groupViewChildPosition": -1,
+        "resourceId": "com.buscalibre.app2:id/rlRowStore",
+        "contentDescription": "",
+        "text": ""
+      },
+      {
+        "className": "androidx.recyclerview.widget.RecyclerView",
+        "recyclerViewChildPosition": -1,
+        "adapterViewChildPosition": -1,
+        "groupViewChildPosition": 2,
+        "resourceId": "com.buscalibre.app2:id/rvStoreList",
+        "contentDescription": "",
+        "text": ""
+      },
+      {
+        "className": "android.widget.RelativeLayout",
+        "recyclerViewChildPosition": -1,
+        "adapterViewChildPosition": -1,
+        "groupViewChildPosition": 1,
+        "resourceId": "",
+        "contentDescription": "",
+        "text": ""
+      }
+    ]
+  }
+]

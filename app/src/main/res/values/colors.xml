@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#ff4d20</color>
+    <color name="colorPrimaryDark">#ff4d20</color>
+    <color name="colorAccent">#ff4d20</color>
+    <color name="oran_bl">#ff4d20</color>
+    <color name="selected_country">#22d6f2</color>
+    <color name="colorShowQuoteHeader">#009150</color>
+    <color name="gray_button">#535353</color>
+    <color name="gray_message">#D6D5DA</color>
+    <color name="fb_color">#416BC1</color>
+    <color name="md_white_1000">#ffffff</color>
+    <color name="white">#ffffff</color>
+    <color name="md_black_1000">#000000</color>
+    <color name="md_yellow_500">#FFEB3B</color>
+
+    <color name="badge_circle">#fd3b68</color>
+    <color name="sky_blue_bl">#75C8EA</color>
+
+    <!-- Ex colors-->
+    <color name="payed">#26A51E</color>
+    <color name="to_pay">#FB0B0B</color>
+
+
+    <color name="colorNavigationBarText">#FFFFFF</color>
+    <color name="colorTransparent">#0000</color>
+    <color name="colorGrey">#CCCCCC</color>
+    <color name="lightBlack">#888888</color>
+    <color name="black_overlay">#66000000</color>
+    <color name="gray_row_sell_background">#D7D7D7</color>
+    <array name="array_dot_active">
+        <item>@color/black_overlay</item>
+        <item>@color/black_overlay</item>
+        <item>@color/black_overlay</item>
+        <item>@color/black_overlay</item>
+        <item>@color/black_overlay</item>
+        <item>@color/black_overlay</item>
+    </array>
+    <array name="array_dot_inactive">
+        <item>@color/oran_bl</item>
+        <item>@color/oran_bl</item>
+        <item>@color/oran_bl</item>
+        <item>@color/oran_bl</item>
+        <item>@color/oran_bl</item>
+        <item>@color/oran_bl</item>
+    </array>
+</resources>

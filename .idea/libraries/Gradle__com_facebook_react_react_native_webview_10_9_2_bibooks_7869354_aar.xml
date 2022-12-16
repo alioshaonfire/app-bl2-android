@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="Gradle: com.facebook.react:react-native-webview:10.9.2-bibooks-7869354@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/143f604b00d34e108d09d61779b5d327/react-native-webview-10.9.2-bibooks-7869354/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/143f604b00d34e108d09d61779b5d327/react-native-webview-10.9.2-bibooks-7869354/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/143f604b00d34e108d09d61779b5d327/react-native-webview-10.9.2-bibooks-7869354/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/2ca7b29fa5a324e5647d5ed4fc676989/transformed/jetified-react-native-webview-10.9.2-bibooks-7869354/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/2ca7b29fa5a324e5647d5ed4fc676989/transformed/jetified-react-native-webview-10.9.2-bibooks-7869354/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/2ca7b29fa5a324e5647d5ed4fc676989/transformed/jetified-react-native-webview-10.9.2-bibooks-7869354/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.facebook.react/react-native-webview/10.9.2-bibooks-7869354/704e5dce9caa8d11e99fd05a10dc705733b2ebc3/react-native-webview-10.9.2-bibooks-7869354-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

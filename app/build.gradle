@@ -1,0 +1,117 @@
+apply plugin: 'com.android.application'
+apply plugin: 'kotlin-android'
+apply plugin: 'kotlin-android-extensions'
+apply plugin: 'kotlin-kapt'
+apply plugin: 'realm-android'
+apply plugin: 'com.google.gms.google-services'
+apply plugin: 'com.google.firebase.crashlytics'
+
+android {
+
+    lintOptions {
+        checkReleaseBuilds false
+        abortOnError false
+    }
+
+    def versionYear = 22
+    def versionMonth = 10
+    def versionDay = 11
+
+    useLibrary 'org.apache.http.legacy'
+
+    defaultConfig {
+        applicationId "com.buscalibre.app2"
+        minSdkVersion 24
+        renderscriptSupportModeEnabled false
+        compileSdkVersion 31
+        targetSdkVersion 32
+        versionCode 39
+        versionName "${versionYear}.${versionMonth}.${versionDay}"
+        testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
+        //alvaro
+        //keyStorePass : buscalibre2.0
+    }
+
+    buildTypes {
+        debug {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+            buildConfigField "String", "SERVER_URL", '"http://18.224.250.32:3000/appbl/api/"'
+        }
+        release {
+            minifyEnabled true
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+            buildConfigField "String", "SERVER_URL", '"https://appserver.buscalibre.com/appbl/api/"'
+        }
+    }
+    compileOptions {
+        sourceCompatibility = 11
+        targetCompatibility = 11
+    }
+    android {
+        buildFeatures {
+            viewBinding = true
+        }
+    }
+}
+
+dependencies {
+    //Local dependencies
+    implementation project(':onepay-release')
+    implementation fileTree(dir: "libs", include: ["*.jar"])
+    //Test
+    androidTestImplementation 'androidx.test.ext:junit:1.1.2'
+    androidTestImplementation 'androidx.test.espresso:espresso-core:3.3.0'
+    testImplementation 'junit:junit:4.13'
+    //Kotlin
+    implementation "org.jetbrains.kotlin:kotlin-stdlib:1.7.20"
+    implementation 'androidx.core:core-ktx:1.3.2'
+    //Android X
+    implementation 'androidx.appcompat:appcompat:1.3.+'
+    implementation 'androidx.constraintlayout:constraintlayout:2.0.4'
+    implementation "androidx.recyclerview:recyclerview:1.2.1"
+    implementation 'androidx.gridlayout:gridlayout:1.0.0'
+    //Android Material
+    implementation 'com.google.android.material:material:1.3.0'
+    //firebase
+    implementation 'com.google.firebase:firebase-messaging:23.1.0'
+    implementation 'com.google.firebase:firebase-analytics:21.2.0'
+    implementation 'com.google.firebase:firebase-crashlytics-ktx:18.3.1'
+    //Calligraphy
+    implementation 'io.github.inflationx:calligraphy3:3.1.1'
+    implementation 'io.github.inflationx:viewpump:2.0.3'
+    //Retrofit
+    implementation 'com.squareup.retrofit2:retrofit:2.9.0'
+    implementation 'com.squareup.retrofit2:converter-gson:2.9.0'
+    implementation 'com.google.code.gson:gson:2.8.9'
+    //Facebook
+    implementation 'com.facebook.android:facebook-login:12.+'
+    implementation 'com.facebook.stetho:stetho:1.5.0'
+    //Spots dialog
+    implementation 'com.github.d-max:spots-dialog:1.1@aar'
+    //Picasso
+    implementation 'com.squareup.picasso:picasso:2.71828'
+    //Realm adapters
+    implementation 'io.realm:android-adapters:2.1.1'
+    //Eventbus
+    implementation 'org.greenrobot:eventbus:3.1.1'
+    //Code zxing
+    implementation 'com.journeyapps:zxing-android-embedded:3.4.0'
+    implementation 'cl.magnet.magnetrestclient:magnetrestclient:1.1.0'
+    //Binpar
+    implementation 'com.binpar.bibooks.sdk:binpar-bibooks-sdk:1.1.3'
+    //tabs
+    implementation 'com.ogaclejapan.smarttablayout:library:2.0.0@aar'
+    implementation 'com.ogaclejapan.smarttablayout:utils-v4:2.0.0@aar'
+    //Glide
+    implementation 'com.github.bumptech.glide:glide:4.11.0'
+    annotationProcessor 'com.github.bumptech.glide:compiler:4.11.0'
+    //Material spinner
+    implementation 'com.github.chivorns:smartmaterialspinner:1.5.0'
+    //DatePickerDialog
+    implementation 'com.wdullaer:materialdatetimepicker:4.2.3'
+    //Bottom menu
+    implementation "com.github.skydoves:androidbottombar:1.0.2"
+    //Google auth
+    implementation 'com.google.android.gms:play-services-auth:20.3.0'
+}

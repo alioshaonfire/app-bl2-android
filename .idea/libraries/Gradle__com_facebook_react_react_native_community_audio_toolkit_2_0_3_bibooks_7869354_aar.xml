@@ -1,0 +1,26 @@
+<component name="libraryTable">
+  <library name="Gradle: com.facebook.react:react-native-community_audio-toolkit:2.0.3-bibooks-7869354@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/747a31e60879b65c233a33db43c58433/jetified-react-native-community_audio-toolkit-2.0.3-bibooks-7869354/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/0f10d50c7094e57caf803152aa902956/jetified-react-native-community_audio-toolkit-2.0.3-bibooks-7869354/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/b3ee94436b6d5f2ee1b95037d542c3f9/react-native-community_audio-toolkit-2.0.3-bibooks-7869354/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/3ee0e29100410107333f9e7b1d82718f/react-native-community_audio-toolkit-2.0.3-bibooks-7869354/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/ea97683e9e06f312096a9f36434b4a7d/react-native-community_audio-toolkit-2.0.3-bibooks-7869354/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/8bd2a2bd120be37f8f1e4a9de18f939d/react-native-community_audio-toolkit-2.0.3-bibooks-7869354/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/24a4dc778a399627885243f7d8475b71/react-native-community_audio-toolkit-2.0.3-bibooks-7869354/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/8bd2a2bd120be37f8f1e4a9de18f939d/react-native-community_audio-toolkit-2.0.3-bibooks-7869354/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/8bd2a2bd120be37f8f1e4a9de18f939d/react-native-community_audio-toolkit-2.0.3-bibooks-7869354/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/5c0a5f8fb24999fbae763cfde319444b/react-native-community_audio-toolkit-2.0.3-bibooks-7869354/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/6ee5ae71e0bab1d2f4e83b0d6b9d6471/react-native-community_audio-toolkit-2.0.3-bibooks-7869354/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/deb4d1487d439ada4019bf9a89ce7d85/transformed/jetified-react-native-community_audio-toolkit-2.0.3-bibooks-7869354/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/10652441e0845d24f94f7057edbaf7b3/transformed/jetified-react-native-community_audio-toolkit-2.0.3-bibooks-7869354/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/ee850ae67d4a395a3f14c864dd3a1b2f/transformed/jetified-react-native-community_audio-toolkit-2.0.3-bibooks-7869354/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/57d56c4ee460b40d1952ad6a7e5a6a02/transformed/jetified-react-native-community_audio-toolkit-2.0.3-bibooks-7869354/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/57d56c4ee460b40d1952ad6a7e5a6a02/transformed/jetified-react-native-community_audio-toolkit-2.0.3-bibooks-7869354/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.facebook.react/react-native-community_audio-toolkit/2.0.3-bibooks-7869354/5b80b972a5af8da1274d26f94fd41c5431792b56/react-native-community_audio-toolkit-2.0.3-bibooks-7869354-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:android.support.design="http://schemas.android.com/apk/res-auto"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    tools:context=".activities.ValidateUserActivity"
+    android:background="@android:color/white">
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="20dp"
+        android:layout_marginEnd="20dp">
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/tvConfirmPassTitle"
+            android:text="@string/ingresa_tu_contrase_a"
+            android:textColor="@android:color/black"
+            android:layout_alignParentTop="true"
+            android:layout_marginTop="30dp"
+            android:textSize="20sp"
+            android:layout_centerHorizontal="true"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/tvAnserPassword"
+            android:textColor="@android:color/black"
+            android:layout_marginTop="10dp"
+            android:layout_centerHorizontal="true"
+            fontPath="fonts/montserrat_light.otf"
+            android:text="@string/cual_es_tu_contrase_a_para"
+            android:layout_below="@+id/tvConfirmPassTitle"
+            tools:ignore="MissingPrefix" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/tvAnswerMail"
+            fontPath="fonts/montserrat_light.otf"
+            android:layout_below="@+id/tvAnserPassword"
+            android:textColor="@android:color/black"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="10dp"
+            tools:ignore="MissingPrefix" />
+        <com.google.android.material.textfield.TextInputLayout
+            android:id="@+id/tilPassword"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="10dp"
+            android:layout_marginTop="20dp"
+            android.support.design:hintAnimationEnabled="true"
+            android.support.design:hintEnabled="true"
+            android:layout_below="@+id/tvAnswerMail"
+            android:hint="@string/contrase_a"
+            app:passwordToggleEnabled="true"
+            android:textColorHint="@android:color/darker_gray">
+
+            <EditText
+                android:id="@+id/etPassword"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:ems="10"
+                android:inputType="textPassword"
+                android:maxLines="1"
+                android:textColor="@android:color/black"
+                android:textColorHint="@android:color/darker_gray" />
+        </com.google.android.material.textfield.TextInputLayout>
+
+        <Button
+            android:id="@+id/btConfirmPassword"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            android:layout_below="@+id/tilPassword"
+            android:background="@drawable/orange_button_selector"
+            android:text="@string/text16"
+            android:textColor="@android:color/white" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/tvForgotPass"
+            android:padding="10dp"
+            android:layout_marginTop="20dp"
+            android:visibility="visible"
+            android:textColor="@color/colorAccent"
+            android:text="@string/olvidaste_tu_contrase_a"
+            android:layout_below="@+id/btConfirmPassword"
+            android:layout_centerHorizontal="true"
+            android:textSize="16sp"/>
+    </RelativeLayout>
+</ScrollView>

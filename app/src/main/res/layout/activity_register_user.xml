@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:android.support.design="http://schemas.android.com/apk/res-auto"
+    android:background="@android:color/white"
+    tools:context=".activities.RegisterUserActivity">
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:layout_marginStart="20dp"
+        android:layout_marginEnd="20dp">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/tvTitleStep1"
+            android:layout_centerHorizontal="true"
+            android:layout_alignParentTop="true"
+            android:textStyle="bold"
+            android:text="@string/text7"
+            android:textColor="@android:color/black"
+            android:textSize="22sp" />
+
+        <ImageView
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            android:src="@mipmap/ic_launcher"
+            android:layout_alignParentEnd="true"/>
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/llEmail"
+            android:layout_marginTop="10dp"
+            android:layout_centerHorizontal="true"
+            android:layout_below="@+id/tvTitleStep1"
+            android:orientation="horizontal">
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/tvEmail"
+                android:textSize="14sp"
+                android:layout_marginEnd="5dp"
+                android:textColor="@android:color/darker_gray"/>
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/tvModify"
+                android:textSize="14sp"
+                android:text="@string/text9"
+                android:layout_marginStart="5dp"
+                android:textColor="@color/colorAccent"/>
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:weightSum="100"
+            android:layout_marginTop="5dp"
+            android:layout_marginBottom="5dp"
+            android:id="@+id/llRegisterNames"
+            android:orientation="vertical"
+            android:layout_below="@+id/llEmail"
+            android:baselineAligned="false">
+            <com.google.android.material.textfield.TextInputLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_weight="50"
+                android:hint="@string/text10"
+                android.support.design:hintAnimationEnabled="true"
+                android.support.design:hintEnabled="true"
+                android:textColorHint="@android:color/darker_gray">
+
+                <EditText
+                    android:id="@+id/etUserFirstName"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="50"
+                    android:inputType="textPersonName"
+                    android:maxLines="1"
+                    android:textColor="@android:color/black"
+                    android:textColorHighlight="@android:color/black"
+                    android:textColorHint="@android:color/darker_gray"
+                    android:textColorLink="@android:color/darker_gray" />
+            </com.google.android.material.textfield.TextInputLayout>
+            <com.google.android.material.textfield.TextInputLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android.support.design:hintAnimationEnabled="true"
+                android.support.design:hintEnabled="true"
+                android:layout_weight="50"
+                android:hint="@string/text11"
+                android:textColorHint="@android:color/darker_gray">
+
+                <EditText
+                    android:id="@+id/etUserLastName"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:inputType="textPersonName"
+                    android:maxLines="1"
+                    android:textColor="@android:color/black"
+                    android:textColorHighlight="@android:color/black"
+                    android:textColorHint="@android:color/darker_gray"
+                    android:textColorLink="@android:color/darker_gray" />
+            </com.google.android.material.textfield.TextInputLayout>
+        </LinearLayout>
+        <com.google.android.material.textfield.TextInputLayout
+            android:id="@+id/tilEmail"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android.support.design:hintAnimationEnabled="true"
+            android.support.design:hintEnabled="true"
+            android:layout_below="@+id/llRegisterNames"
+            android:hint="@string/text12"
+            android:layout_marginBottom="5dp"
+            android.support.design:passwordToggleEnabled="true"
+            android:textColorHint="@android:color/darker_gray">
+
+            <EditText
+                android:id="@+id/etPassword"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:inputType="textPassword"
+                android:maxLines="1"
+                android:textColor="@android:color/black"
+                android:textColorHighlight="@android:color/black"
+                android:textColorHint="@android:color/darker_gray"
+                android:textColorLink="@android:color/darker_gray" />
+        </com.google.android.material.textfield.TextInputLayout>
+        <com.google.android.material.textfield.TextInputLayout
+            android:id="@+id/tilRepeatEmail"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android.support.design:hintAnimationEnabled="true"
+            android.support.design:hintEnabled="true"
+            android:layout_below="@+id/tilEmail"
+            android:hint="@string/text14"
+            android.support.design:passwordToggleEnabled="true"
+            android:layout_marginBottom="5dp"
+            android:textColorHint="@android:color/darker_gray">
+
+            <EditText
+                android:id="@+id/etRepeatPassword"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:inputType="textPassword"
+                android:maxLines="1"
+                android:longClickable="false"
+                android:textColor="@android:color/black"
+                android:textColorHighlight="@android:color/black"
+                android:textColorHint="@android:color/darker_gray"
+                android:textColorLink="@android:color/darker_gray" />
+        </com.google.android.material.textfield.TextInputLayout>
+
+
+        <Button
+            android:id="@+id/btRegister"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            android:layout_below="@+id/tilRepeatEmail"
+            android:layout_centerHorizontal="true"
+            android:background="@drawable/orange_button_selector"
+            android:text="@string/next"
+            android:onClick="registerUserOnClick"
+            android:textColor="@android:color/white" />
+    </RelativeLayout>
+
+</ScrollView>

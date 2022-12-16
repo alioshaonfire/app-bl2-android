@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_marginTop="5dp"
+    android:elevation="10dp">
+
+    <RelativeLayout
+        android:layout_width="match_parent" android:layout_height="wrap_content"
+        android:layout_marginTop="5dp">
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:weightSum="100"
+            android:layout_marginStart="10dp"
+            android:layout_marginEnd="10dp">
+            <TextView
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:id="@+id/tvProductNameDetail"
+                android:layout_weight="70"
+                android:layout_marginEnd="10dp"
+                android:ellipsize="end"/>
+            <LinearLayout
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="30"
+                android:orientation="vertical">
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="vertical">
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="@string/valor_compra"
+                        android:textColor="@color/oran_bl"
+                        android:textStyle="bold"/>
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:id="@+id/tvProdPrice"
+                        android:lines="1"
+                        android:ellipsize="end"
+                        android:textColor="@color/md_black_1000"/>
+                </LinearLayout>
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="vertical">
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="@string/estado"
+                        android:textColor="@color/oran_bl"
+                        android:textStyle="bold"/>
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:id="@+id/tvProdStatus"
+                        android:lines="1"
+                        android:ellipsize="end"
+                        android:textColor="@color/md_black_1000"/>
+                </LinearLayout>
+            </LinearLayout>
+        </LinearLayout>
+
+    </RelativeLayout>
+</androidx.cardview.widget.CardView>

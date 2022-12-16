@@ -1,0 +1,28 @@
+<component name="libraryTable">
+  <library name="Gradle: com.facebook.fresco:nativeimagefilters:2.0.0@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/f4d2bfaf62f691945000c8f3bdca225f/jetified-nativeimagefilters-2.0.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/4683b731424386451ab1d98b49492d5e/jetified-nativeimagefilters-2.0.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/eaf55301d856cec7b1f77f0a0eedaf8f/nativeimagefilters-2.0.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/d22e1991d75a74c2b770f80955134597/nativeimagefilters-2.0.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/4c58e8e86083d2f840009da3b15b30d6/nativeimagefilters-2.0.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/c2660fc53155c3bd2446b33aa8494d02/nativeimagefilters-2.0.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/11263ea1d8c4cde7d1ef45d927453bd0/nativeimagefilters-2.0.0/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/c2660fc53155c3bd2446b33aa8494d02/nativeimagefilters-2.0.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/c2660fc53155c3bd2446b33aa8494d02/nativeimagefilters-2.0.0/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/530e14a54f9f3b5e147eeb4b9eae1e41/nativeimagefilters-2.0.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/5f7543205d4228d66f3ff595986a920d/nativeimagefilters-2.0.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/954c8746b9e78c958bbca069576786f7/transformed/jetified-nativeimagefilters-2.0.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/7d789b031587ca1bf770e65884d43124/transformed/jetified-nativeimagefilters-2.0.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/d43e30204d85d54b7c2b0a3095a05ac2/transformed/jetified-nativeimagefilters-2.0.0/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/eefcaa1d2b3e3024de627b54bd110972/transformed/jetified-nativeimagefilters-2.0.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/eefcaa1d2b3e3024de627b54bd110972/transformed/jetified-nativeimagefilters-2.0.0/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.facebook.fresco/nativeimagefilters/2.0.0/d93e5dbc624981fa073a533b59a2ae74a85bfcf4/nativeimagefilters-2.0.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.facebook.fresco/nativeimagefilters/2.0.0/7b2398236e09fba474bfb2b8f551b523ab61ca27/nativeimagefilters-2.0.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

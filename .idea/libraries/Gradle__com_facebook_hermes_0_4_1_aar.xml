@@ -1,0 +1,24 @@
+<component name="libraryTable">
+  <library name="Gradle: com.facebook:hermes:0.4.1@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/f7d690539c76c11048f92f402f03ec32/jetified-hermes-0.4.1/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/8f560b9f1be16318c45874bb90cb4dfb/jetified-hermes-0.4.1/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/6211ada981e71c68559751e8a5b15a6b/hermes-0.4.1/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/ea4c64d23fe0106ed9ef502c607c258f/hermes-0.4.1/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/3b650226c3f4ab5cc14c5b94c2700202/hermes-0.4.1/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/3f1335dc1bd029afd901650b36337cbe/hermes-0.4.1/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/d37ef556545b70c3789c82b1139c212c/hermes-0.4.1/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/3f1335dc1bd029afd901650b36337cbe/hermes-0.4.1/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/3f1335dc1bd029afd901650b36337cbe/hermes-0.4.1/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/6cac46bf6b3a7a90206f10cc691066c7/hermes-0.4.1/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/c235e8fe8cb3788706582da0b7b4cda3/hermes-0.4.1/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/0d9c43aaaa0071c02eac0531afc0416c/transformed/jetified-hermes-0.4.1/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/1e8c2fcff86e500e93f1fb12eb876c78/transformed/jetified-hermes-0.4.1/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/8998d774938017700def47c10399e1ec/transformed/jetified-hermes-0.4.1/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/2fd2660b6ba3ba563d2950006ce6ed69/transformed/jetified-hermes-0.4.1/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/2fd2660b6ba3ba563d2950006ce6ed69/transformed/jetified-hermes-0.4.1/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

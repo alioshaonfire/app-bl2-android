@@ -1,0 +1,26 @@
+<component name="libraryTable">
+  <library name="Gradle: com.facebook.react:react-native-community_netinfo:5.9.7-bibooks-7869354@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/bf6baea68254311110d6943ac50f33c3/jetified-react-native-community_netinfo-5.9.7-bibooks-7869354/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/a7dfe8f47f59a5667e9ade4ecc7d50b5/jetified-react-native-community_netinfo-5.9.7-bibooks-7869354/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/fb5a3e696675e46d6e632480c8aeea3c/react-native-community_netinfo-5.9.7-bibooks-7869354/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/2264f4aa305c93ad71d03925a030164f/react-native-community_netinfo-5.9.7-bibooks-7869354/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/515b3e9ce77003f269990a1e21ee1b71/react-native-community_netinfo-5.9.7-bibooks-7869354/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/2b4da0a2d4a132848003322f6b15a07b/react-native-community_netinfo-5.9.7-bibooks-7869354/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/d114226ea0de448369ed6dc5432d7aee/react-native-community_netinfo-5.9.7-bibooks-7869354/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/2b4da0a2d4a132848003322f6b15a07b/react-native-community_netinfo-5.9.7-bibooks-7869354/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/2b4da0a2d4a132848003322f6b15a07b/react-native-community_netinfo-5.9.7-bibooks-7869354/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/30795744ba56d545580574c186374d8f/react-native-community_netinfo-5.9.7-bibooks-7869354/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/85fdd4000489fdacc06fabeb45ae6002/react-native-community_netinfo-5.9.7-bibooks-7869354/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/0a51e9adb2e01fdf2603329dacf7d05b/transformed/jetified-react-native-community_netinfo-5.9.7-bibooks-7869354/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/b8636c3ba3269a7c250f4731161a20ec/transformed/jetified-react-native-community_netinfo-5.9.7-bibooks-7869354/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/60365908ec8ae69f791f8c553bb5316b/transformed/jetified-react-native-community_netinfo-5.9.7-bibooks-7869354/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/d5aeb45f5d974a769942521bfce918d6/transformed/jetified-react-native-community_netinfo-5.9.7-bibooks-7869354/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/d5aeb45f5d974a769942521bfce918d6/transformed/jetified-react-native-community_netinfo-5.9.7-bibooks-7869354/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.facebook.react/react-native-community_netinfo/5.9.7-bibooks-7869354/bca2e3e97ce43b8454c5f6db7182f7475b047806/react-native-community_netinfo-5.9.7-bibooks-7869354-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

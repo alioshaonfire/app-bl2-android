@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Gradle: com.binpar.bibooks.sdk:binpar-bibooks-sdk:1.1.3@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/5162eed39c93262faa6e3f7a4b427e24/binpar-bibooks-sdk-1.1.3/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/5162eed39c93262faa6e3f7a4b427e24/binpar-bibooks-sdk-1.1.3/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/5162eed39c93262faa6e3f7a4b427e24/binpar-bibooks-sdk-1.1.3/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/efd4500d6f3ee3756b4d7fdc109aebbe/transformed/jetified-binpar-bibooks-sdk-1.1.3/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/efd4500d6f3ee3756b4d7fdc109aebbe/transformed/jetified-binpar-bibooks-sdk-1.1.3/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/efd4500d6f3ee3756b4d7fdc109aebbe/transformed/jetified-binpar-bibooks-sdk-1.1.3/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

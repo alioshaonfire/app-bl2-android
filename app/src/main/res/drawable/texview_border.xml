@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <!--space between each text box-->
+    <item
+        android:top="3dp"
+        android:id="@+id/textbox_shape"
+        >
+        <shape android:shape="rectangle">
+            <!--formatting of colour inside the box-->
+            <solid android:color="@android:color/transparent" />
+            <!--formatting of lines on the box-->
+            <stroke
+                android:width="1dip"
+                />
+            <corners android:radius="3dp"/>
+            <!--text formatting in the box-->
+            <padding
+                android:textSize="30dp"
+                android:top="15dp"
+                android:bottom="1dp"
+                android:left="20dp"
+                android:right="20dp"/>
+        </shape>
+    </item>
+</layer-list>
